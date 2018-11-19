@@ -1,0 +1,243 @@
+{
+	"invocation": "master quiz",
+	"intents": [
+		{
+			"name": "ScoreIntent",
+			"phrases": [
+				"Give me my {rank}",
+				"Tell me my {rank}",
+				"I want to know my {rank}",
+				"Am i a master now",
+				"{rank}"
+            ],
+            "inputs":[
+                {
+                    "name": "rank",
+                    "type": "myScoreInputType"
+                }
+            ]
+		},
+		{
+			"name": "QuizIntent",
+			"phrases": [
+				"I want a quiz",
+				"Give me a quiz",
+				"Quiz",
+				"Start a quiz",
+				"Open a quiz",
+				"Let's do this quiz",
+				"Start a quiz game",
+				"Start a quiz"
+			]
+		},
+		{
+			"name": "ThemesIntent",
+			"phrases": [
+				"I want the {theme}",
+				"Give me {theme}",
+				"{theme}",
+				"Let's take a shot at {theme}",
+				"I want to try {theme}",
+				"I want a quiz about {theme}",
+				"A quiz about {theme}"
+			],
+            "inputs":[
+                {
+					"name": "theme",
+                    "type": "myThemeInputType"
+                }
+            ]
+		},
+		{
+			"name": "DifficultyIntent",
+			"phrases": [
+				"I want {difficulty}",
+				"{difficulty}",
+				"Give me a {difficulty} quiz",
+				"I want a challenge so i choose {difficulty}",
+				"I want something {difficulty}",
+				"A {difficulty} quiz",
+				"{difficulty} quiz"
+			],
+			"inputs":[
+				{
+					"name":"difficulty",
+					"type": "myDifficultyInputType"
+				}
+			]
+
+		},
+		{
+			"name": "TypeofQuestionIntent",
+			"phrases": [
+				"You choose",
+				"Both",
+				"{typeofquestion}",
+				"I want a {typeofquestion} quiz",
+				"{typeofquestion} quiz",
+				"A {typeofquestion} quiz"
+			],
+			"inputs": [
+				{
+					"name": "typeofquestion",
+					"type": "myTypeIntent"
+				}
+			]
+		},
+		{
+			"name": "QuestionIntent",
+			"phrases": [
+				"Give me {number} questions",
+				"{number} questions",
+				"I want {number} questions",
+				"It can be {number} questions",
+				"{number}",
+				"Give me {number}",
+				"I want {number}",
+				"It can be {number}"
+			],
+			"inputs":[
+				{
+					"name": "number",
+					"type": {
+						"alexa": "AMAZON.NUMBER",
+						"dialogflow": "@sys.number"
+					}
+				}
+			]
+		},
+		{
+			"name": "AnswerIntent",
+			"phrases": [
+				"The answer is {answer}",
+				"My answer is {answer}",
+				"{answer}",
+				"{answer] is my answer",
+				"is it {answer}",
+				"Next",
+				"Pass",
+				"Another question",
+				"Another",
+				"Next question",
+				"I don't know",
+				"who knows",
+				"skip",
+				"dunno",
+				"i don't know that one",
+				"i don't know this question",
+				"i don't know that"
+			],
+			"inputs": [
+				{
+					"name": "answer",
+					"type": "ListofAnswersType"
+				}
+			]
+		}
+	],
+	"inputTypes": [
+		{
+			"name": "myScoreInputType",
+			"values": [
+				{
+					"value": "Rank",
+					"synonyms": [
+						"Score",
+						"Level"
+					]
+				}
+			]
+		},
+		{
+			"name": "myThemeInputType",
+			"values": [
+				{
+					"value": "General Knowledge",
+					"synonyms": [
+						"Sports",
+						"Science and nature",
+						"Music",
+						"Film",
+						"Geography",
+						"Random"
+					]	
+				}
+			]	
+		},
+		{
+			"name": "myDifficultyInputType",
+			"values": [
+				{
+					"value": "Easy",
+					"synonyms": [
+						"Hard",
+						"Medium",
+						"Simple",
+						"Super hard",
+						"So so",
+						"intermidiate",
+						"advanced",
+						"beginner"
+					]
+				}
+			]
+		},
+		{
+			"name":"myTypeIntent",
+			"values":[
+				{
+					"value": "True or false",
+					"synonyms": [
+						"Multiple choice",
+						"Multiple",
+						"TF",
+						"Choice",
+						"True",
+						"False",
+						"Mult"
+					]
+				}
+			]
+		},
+		{
+			"name":"ListofAnswersType",
+			"values":[
+				{
+					"value": "True",
+					"synonyms": [
+						"False",
+						"1",
+						"2",
+						"3",
+						"4",
+						"A",
+						"B",
+						"C",
+						"D"
+
+					]
+				}
+			]
+		}
+	],
+	"alexa": {
+		"interactionModel": {
+			"languageModel": {
+				"intents": [
+					{
+						"name": "AMAZON.CancelIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.HelpIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.StopIntent",
+						"samples": []
+					}
+				]
+			}
+		}
+	}
+}

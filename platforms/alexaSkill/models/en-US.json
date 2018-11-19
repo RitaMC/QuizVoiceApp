@@ -1,0 +1,65 @@
+{
+	"interactionModel": {
+		"languageModel": {
+			"invocationName": "master quiz",
+			"types": [
+				{
+					"name": "myScoreInputType",
+					"values": [
+						{
+							"id": null,
+							"name": {
+								"value": "Rank",
+								"synonyms": [
+									"Score",
+									"Level"
+								]
+							}
+						}
+					]
+				}
+			],
+			"intents": [
+				{
+					"name": "ScoreIntent",
+					"samples": [
+						"Give me my {rank}",
+						"Tell me my {rank}",
+						"I want to know my {rank}",
+						"Am i a master now?",
+						"{rank}"
+					],
+					"slots": [
+						{
+							"name": "rank",
+							"type": "myScoreInputType"
+						}
+					]
+				},
+				{
+					"name": "QuizIntent",
+					"samples": [
+						"I want a quiz",
+						"Give me a quiz",
+						"Quiz",
+						"Start a quiz",
+						"Open a quiz",
+						"Let's do this quiz"
+					]
+				},
+				{
+					"name": "AMAZON.CancelIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.HelpIntent",
+					"samples": []
+				},
+				{
+					"name": "AMAZON.StopIntent",
+					"samples": []
+				}
+			]
+		}
+	}
+}

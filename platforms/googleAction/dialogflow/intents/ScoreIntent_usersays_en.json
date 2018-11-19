@@ -1,0 +1,72 @@
+[
+	{
+		"data": [
+			{
+				"text": "Give me my ",
+				"userDefined": false
+			},
+			{
+				"text": "rank",
+				"userDefined": true,
+				"alias": "rank",
+				"meta": "@myScoreInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Tell me my ",
+				"userDefined": false
+			},
+			{
+				"text": "rank",
+				"userDefined": true,
+				"alias": "rank",
+				"meta": "@myScoreInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "I want to know my ",
+				"userDefined": false
+			},
+			{
+				"text": "rank",
+				"userDefined": true,
+				"alias": "rank",
+				"meta": "@myScoreInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Am i a master now?",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "rank",
+				"userDefined": true,
+				"alias": "rank",
+				"meta": "@myScoreInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]
