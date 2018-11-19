@@ -17,6 +17,267 @@
 							}
 						}
 					]
+				},
+				{
+					"name": "myThemeInputType",
+					"values": [
+						{
+							"id": null,
+							"name": {
+								"value": "General Knowledge",
+								"synonyms": [
+									"Sports",
+									"Science and nature",
+									"Music",
+									"Film",
+									"Geography",
+									"Random"
+								]
+							}
+						}
+					]
+				},
+				{
+					"name": "myDifficultyInputType",
+					"values": [
+						{
+							"id": null,
+							"name": {
+								"value": "Easy",
+								"synonyms": [
+									"Hard",
+									"Medium",
+									"Simple",
+									"Super hard",
+									"So so",
+									"intermidiate",
+									"advanced",
+									"beginner"
+								]
+							}
+						}
+					]
+				},
+				{
+					"name": "myTypeIntent",
+					"values": [
+						{
+							"id": null,
+							"name": {
+								"value": "True or false",
+								"synonyms": [
+									"Multiple choice",
+									"Multiple",
+									"TF",
+									"Choice",
+									"True",
+									"False",
+									"Mult"
+								]
+							}
+						}
+					]
+				},
+				{
+					"name": "ListofAnswersType",
+					"values": [
+						{
+							"id": null,
+							"name": {
+								"value": "True",
+								"synonyms": [
+									"False",
+									"1",
+									"2",
+									"3",
+									"4",
+									"A",
+									"B",
+									"C",
+									"D",
+									"Leicester City",
+									"Leicester City",
+									"Russia",
+									"Lewis Hamilton",
+									"Michael Schumacher",
+									"7 - 1",
+									"4",
+									"Nico Rosberg",
+									"2009",
+									"Montreal Canadians",
+									"Duck",
+									"Alain Prost",
+									"82",
+									"Germany",
+									"Cleveland Cavaliers",
+									"Arizona Cardinals",
+									"Atlanta Braves",
+									"US Open",
+									"Madeira",
+									"Jose Fernandez",
+									"Hammer",
+									"Peter Fleming",
+									"Moscow",
+									"Mazda",
+									"Pelle",
+									"Ma Long (China)",
+									"DING Ning (China)",
+									"Cristiano Ronaldo dos Santos Aveiro",
+									"1969",
+									"Demolition",
+									"Cancer",
+									"Subscriber",
+									"Tango",
+									"Rum",
+									"Rock Band",
+									"7",
+									"Spruce Goose",
+									"Metropolitan Line",
+									"Uno",
+									"Economics",
+									"Watches",
+									"A body pillow",
+									"Daniel Ek",
+									"Bullfighting",
+									"David Childs",
+									"1955",
+									"Yahoo! Mountain Dew... It'll tickle your innards!",
+									"We Love to See You Smile",
+									"Google",
+									"Simjang",
+									"Qamar",
+									"Harry",
+									"Bank of Italy",
+									"I came, I saw, I conquered",
+									"Traffic Collision Avoidance System",
+									"Green",
+									"Finding shapes in clouds",
+									"A percussion instrument",
+									"Cupertino, California",
+									"The Thing",
+									"Steven Spielberg",
+									"Uma Thurman",
+									"Scarface",
+									"Highlander",
+									"BB-8",
+									"Wilson",
+									"Vincent Vega",
+									"Aloysius O'Hare",
+									"Jack Black",
+									"Frankly, my dear, I don't give a damn.",
+									"23 years, 4 months, and 8 days",
+									"Sierra Leone",
+									"War Operation Plan Response",
+									"October 21, 2015",
+									"1997",
+									"Louis Theroux",
+									"1992 Ford Explorer XLT",
+									"Coral",
+									"Pamela",
+									"Duck Soup",
+									"Karl Ruprecht Kroenen",
+									"A galloping horse",
+									"Jack and Jill",
+									"Distant Drums",
+									"Gunnar Hansen",
+									"2005",
+									"Velociraptor",
+									"Dave",
+									"Baby penguins",
+									"Snow",
+									"Johnny Cash",
+									"Justin Bieber",
+									"Blood Sugar Sex Magik",
+									"Recess",
+									"Atlanta",
+									"Blonde",
+									"Shout",
+									"Laura Brehm",
+									"Adele, 25",
+									"Goodbye Yellow Brick Road",
+									"Les Paul Standard",
+									"Miami",
+									"Lagwagon",
+									"Matt Bellamy",
+									"Sweden",
+									"1999",
+									"Free Willy",
+									"Aubrey Graham",
+									"Baba O' Riley",
+									"Tommy Moore",
+									"Jamie xx",
+									"Hemidemisemiquaver",
+									"Left Alone",
+									"Limitless Fury",
+									"5",
+									"The Velvet Underground and Nico",
+									"Rebecca Sugar",
+									"Yeezus",
+									"Viktor Tsoi",
+									"Washington D.C",
+									"Phoenix",
+									"Jakarta",
+									"16",
+									"Portugal, Ireland, Italy, Greece, Spain",
+									"No one, but there are claims.",
+									"Qatar",
+									"Equatorial Guinea",
+									"Brazil",
+									"Pacific",
+									"Santiago",
+									"Cyprus",
+									"Altaic",
+									"Germany",
+									"United States",
+									"North Atlantic Ocean, between Florida and Puerto Rico",
+									"The North Pole",
+									"Java",
+									"Switzerland",
+									"Fairfax County, Virginia",
+									"Finland",
+									"Yangtze",
+									"Afghanistan and Pakistan",
+									"Lishana Deni",
+									"Indonesia",
+									"Niagara Falls",
+									"Baffin Island",
+									"Grand Banks",
+									"Hamilton",
+									"Port Louis",
+									"Apollo 11",
+									"Radius",
+									"6.022 x 10^23",
+									"Hg",
+									"Eight",
+									"Nitrogen",
+									"8",
+									"244",
+									"Light amplifiaction by stimulated eminission of radioation",
+									"Ohm",
+									"212",
+									"Gold",
+									"Bones",
+									"Reactivity",
+									"Shortsightedness",
+									"Hydrogen",
+									"4.5 Billion Years",
+									"Hydrogen & Helium",
+									"Honey Fungus",
+									"STS-107",
+									"R",
+									"Patella",
+									"Catholic",
+									"O3",
+									"The separation of a strain from a natural, mixed population of living microbes",
+									"0.1 Microsievert",
+									"Magnesium",
+									"9.461 Trillion Kilometres",
+									"Clowns",
+									"Gorilla Gorilla Gorilla"
+								]
+							}
+						}
+					]
 				}
 			],
 			"intents": [
@@ -26,7 +287,7 @@
 						"Give me my {rank}",
 						"Tell me my {rank}",
 						"I want to know my {rank}",
-						"Am i a master now?",
+						"Am i a master now",
 						"{rank}"
 					],
 					"slots": [
@@ -44,7 +305,109 @@
 						"Quiz",
 						"Start a quiz",
 						"Open a quiz",
-						"Let's do this quiz"
+						"Let's do this quiz",
+						"Start a quiz game",
+						"Start a quiz"
+					]
+				},
+				{
+					"name": "ThemesIntent",
+					"samples": [
+						"I want the {theme}",
+						"Give me {theme}",
+						"{theme}",
+						"Let's take a shot at {theme}",
+						"I want to try {theme}",
+						"I want a quiz about {theme}",
+						"A quiz about {theme}"
+					],
+					"slots": [
+						{
+							"name": "theme",
+							"type": "myThemeInputType"
+						}
+					]
+				},
+				{
+					"name": "DifficultyIntent",
+					"samples": [
+						"I want {difficulty}",
+						"{difficulty}",
+						"Give me a {difficulty} quiz",
+						"I want a challenge so i choose {difficulty}",
+						"I want something {difficulty}",
+						"A {difficulty} quiz",
+						"{difficulty} quiz"
+					],
+					"slots": [
+						{
+							"name": "difficulty",
+							"type": "myDifficultyInputType"
+						}
+					]
+				},
+				{
+					"name": "TypeofQuestionIntent",
+					"samples": [
+						"You choose",
+						"Both",
+						"{typeofquestion}",
+						"I want a {typeofquestion} quiz",
+						"{typeofquestion} quiz",
+						"A {typeofquestion} quiz"
+					],
+					"slots": [
+						{
+							"name": "typeofquestion",
+							"type": "myTypeIntent"
+						}
+					]
+				},
+				{
+					"name": "QuestionIntent",
+					"samples": [
+						"Give me {number} questions",
+						"{number} questions",
+						"I want {number} questions",
+						"It can be {number} questions",
+						"{number}",
+						"Give me {number}",
+						"I want {number}",
+						"It can be {number}"
+					],
+					"slots": [
+						{
+							"name": "number",
+							"type": "AMAZON.NUMBER"
+						}
+					]
+				},
+				{
+					"name": "AnswerIntent",
+					"samples": [
+						"The answer is {answer}",
+						"My answer is {answer}",
+						"{answer}",
+						"{answer} is my answer",
+						"is it {answer}",
+						"Next",
+						"Pass",
+						"Another question",
+						"Another",
+						"Next question",
+						"I don't know",
+						"who knows",
+						"skip",
+						"dunno",
+						"i don't know that one",
+						"i don't know this question",
+						"i don't know that"
+					],
+					"slots": [
+						{
+							"name": "answer",
+							"type": "ListofAnswersType"
+						}
 					]
 				},
 				{

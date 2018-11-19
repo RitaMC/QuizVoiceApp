@@ -1,0 +1,17 @@
+{
+	"name": "DifficultyIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "difficulty",
+					"value": "$difficulty",
+					"dataType": "@myDifficultyInputType"
+				}
+			]
+		}
+	]
+}

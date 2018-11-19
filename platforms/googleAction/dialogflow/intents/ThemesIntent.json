@@ -1,0 +1,17 @@
+{
+	"name": "ThemesIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "theme",
+					"value": "$theme",
+					"dataType": "@myThemeInputType"
+				}
+			]
+		}
+	]
+}

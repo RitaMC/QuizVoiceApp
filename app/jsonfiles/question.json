@@ -1,0 +1,2585 @@
+{
+    "Sports_multiple_easy": [
+        {
+            "question": "Which English football club has the nickname The Foxes?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Northampton Town",
+                "Bradford City",
+                "West Bromwich Albion"
+            ]
+        },
+        {
+            "question": "Which team won the 2015-16 English Premier League?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Liverpool",
+                "Cheslea",
+                "Manchester United"
+            ]
+        },
+        {
+            "question": "Which country is hosting the 2018 FIFA World Cup?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+                "Germany",
+                "United States",
+                "Saudi Arabia"
+            ]
+        },
+        {
+            "question": "Who won the 2015 Formula 1 World Championship?",
+            "correct_answer": "Lewis Hamilton",
+            "incorrect_answers": [
+                "Nico Rosberg",
+                "Sebastian Vettel",
+                "Jenson Button"
+            ]
+        },
+        {
+            "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+            "correct_answer": "Michael Schumacher",
+            "incorrect_answers": [
+                "Ayrton Senna",
+                "Fernando Alonso",
+                "Jim Clark"
+            ]
+        },
+        {
+            "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+            "correct_answer": "7 - 1",
+            "incorrect_answers": [
+                "0 - 1",
+                "3 - 4",
+                "16 - 0"
+            ]
+        },
+        {
+            "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "question": "Who won the 2016 Formula 1 World Driver's Championship?",
+            "correct_answer": "Nico Rosberg",
+            "incorrect_answers": [
+                "Lewis Hamilton",
+                "Max Verstappen",
+                "Kimi Raikkonen"
+            ]
+        },
+        {
+            "question": "What year did the New Orleans Saints win the Super Bowl?",
+            "correct_answer": "2009",
+            "incorrect_answers": [
+                "2008",
+                "2010",
+                "2011"
+            ]
+        },
+        {
+            "question": "Which team has won the most Stanley Cups in the NHL?",
+            "correct_answer": "Montreal Canadians",
+            "incorrect_answers": [
+                "Chicago Blackhawks",
+                "Toronto Maple Leafs",
+                "Detroit Red Wings"
+            ]
+        }
+    ],
+    "Sports_multiple_medium": [
+        {
+            "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+            "correct_answer": "Duck",
+            "incorrect_answers": [
+                "Bye",
+                "Beamer",
+                "Carry"
+            ]
+        },
+        {
+            "question": "Which Formula One driver was nicknamed The Professor?",
+            "correct_answer": "Alain Prost",
+            "incorrect_answers": [
+                "Ayrton Senna",
+                "Niki Lauda",
+                "Emerson Fittipaldi"
+            ]
+        },
+        {
+            "question": "How many scoring zones are there on a conventional dart board?",
+            "correct_answer": "82",
+            "incorrect_answers": [
+                "62",
+                "42",
+                "102"
+            ]
+        },
+        {
+            "question": "Which nation hosted the FIFA World Cup in 2006?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "United Kingdom",
+                "Brazil",
+                "South Africa"
+            ]
+        },
+        {
+            "question": "Which team was the 2015-2016 NBA Champions?",
+            "correct_answer": "Cleveland Cavaliers",
+            "incorrect_answers": [
+                "Golden State Warriors",
+                "Toronto Raptors",
+                "Oklahoma City Thunders"
+            ]
+        },
+        {
+            "question": "What is the oldest team in the NFL?",
+            "correct_answer": "Arizona Cardinals",
+            "incorrect_answers": [
+                "Chicago Bears",
+                "Green Bay Packers",
+                "New York Giants"
+            ]
+        },
+        {
+            "question": "What is the oldest team in Major League Baseball?",
+            "correct_answer": "Atlanta Braves",
+            "incorrect_answers": [
+                "Chicago Cubs",
+                "Cincinnati Reds",
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+            "correct_answer": "US Open",
+            "incorrect_answers": [
+                "French Open",
+                "Wimbledon",
+                "Australian Open"
+            ]
+        },
+        {
+            "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+            "correct_answer": "Madeira",
+            "incorrect_answers": [
+                "Terceira",
+                "Santa Maria",
+                "Porto Santo"
+            ]
+        },
+        {
+            "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+            "correct_answer": "Jose Fernandez",
+            "incorrect_answers": [
+                "Jacob deGrom",
+                "Shelby Miller",
+                "Matt Harvey"
+            ]
+        }
+    ],
+    "Sports_multiple_hard": [
+        {
+            "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
+            "correct_answer": "Hammer",
+            "incorrect_answers": [
+                "Wrench",
+                "Drill",
+                "Screwdriver"
+            ]
+        },
+        {
+            "question": "With which doubles partner did John McEnroe have most success?",
+            "correct_answer": "Peter Fleming",
+            "incorrect_answers": [
+                "Mark Woodforde",
+                "Michael Stich",
+                "Mary Carillo"
+            ]
+        },
+        {
+            "question": "Where was the Games of the XXII Olympiad held?",
+            "correct_answer": "Moscow",
+            "incorrect_answers": [
+                "Barcelona",
+                "Tokyo",
+                "Los Angeles"
+            ]
+        },
+        {
+            "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+            "correct_answer": "Mazda",
+            "incorrect_answers": [
+                "Toyota",
+                "Subaru",
+                "Nissan"
+            ]
+        },
+        {
+            "question": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+            "correct_answer": "Pelle",
+            "incorrect_answers": [
+                "Insigne",
+                "Barzagli",
+                "Giaccherini"
+            ]
+        },
+        {
+            "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+            "correct_answer": "Ma Long (China)",
+            "incorrect_answers": [
+                "Zhang Jike (China)",
+                "Jun Mizutani (Japan)",
+                "Vladimir Samsonov (Belarus)"
+            ]
+        },
+        {
+            "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+            "correct_answer": "DING Ning (China)",
+            "incorrect_answers": [
+                "LI Xiaoxia (China)",
+                "Ai FUKUHARA (Japan)",
+                "Song KIM (North Korea)"
+            ]
+        },
+        {
+            "question": "What is the full name of the footballer Cristiano Ronaldo?",
+            "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+            "incorrect_answers": [
+                "Cristiano Ronaldo los Santos Diego",
+                "Cristiano Armando Diego Ronaldo",
+                "Cristiano Luis Armando Ronaldo"
+            ]
+        },
+        {
+            "question": "Which year was the third Super Bowl held?",
+            "correct_answer": "1969",
+            "incorrect_answers": [
+                "1968",
+                "1971",
+                "1970"
+            ]
+        }
+    ],
+    "Sports_boolean_easy": [
+        {
+            "question": "Manchester United won the 2013-14 English Premier League.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Peyton Manning retired after winning Super Bowl XLIX.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Roger Federer is a famous soccer player.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "In Rugby League, performing a 40-20 is punished by a free kick for the opposing team.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "Sports_boolean_medium": [
+        {
+            "question": "Soccer player Cristiano Ronaldo opened a museum dedicated to himself.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Skateboarding will be included in the 2020 Summer Olympics in Tokyo.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Tennis was once known as Racquetball.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The Olympics tennis court is a giant green screen.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Formula E is an auto racing series that uses hybrid electric race cars.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Wilt Chamberlain scored his infamous 100-point-game against the New York Knicks in 1962.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "General Knowledge_multiple_easy": [
+        {
+            "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+            "correct_answer": "Demolition",
+            "incorrect_answers": [
+                "The Dream Team",
+                "The Bushwhackers",
+                "The British Bulldogs"
+            ]
+        },
+        {
+            "question": "Which sign of the zodiac is represented by the Crab?",
+            "correct_answer": "Cancer",
+            "incorrect_answers": [
+                "Libra",
+                "Virgo",
+                "Sagittarius"
+            ]
+        },
+        {
+            "question": "What does the S stand for in the abbreviation SIM, as in SIM card? ",
+            "correct_answer": "Subscriber",
+            "incorrect_answers": [
+                "Single",
+                "Secure",
+                "Solid"
+            ]
+        },
+        {
+            "question": "What word represents the letter T in the NATO phonetic alphabet?",
+            "correct_answer": "Tango",
+            "incorrect_answers": [
+                "Target",
+                "Taxi",
+                "Turkey"
+            ]
+        },
+        {
+            "question": "What alcoholic drink is made from molasses?",
+            "correct_answer": "Rum",
+            "incorrect_answers": [
+                "Gin",
+                "Vodka",
+                "Whisky"
+            ]
+        },
+        {
+            "question": "Which one of the following rhythm games was made by Harmonix?",
+            "correct_answer": "Rock Band",
+            "incorrect_answers": [
+                "Meat Beat Mania",
+                "Guitar Hero Live",
+                "Dance Dance Revolution"
+            ]
+        },
+        {
+            "question": "How many colors are there in a rainbow?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "8",
+                "9",
+                "10"
+            ]
+        },
+        {
+            "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+            "correct_answer": "Spruce Goose",
+            "incorrect_answers": [
+                "Noah's Ark",
+                "Fat Man",
+                "Trojan Horse"
+            ]
+        },
+        {
+            "question": "What was the first ever London Underground line to be built?",
+            "correct_answer": "Metropolitan Line",
+            "incorrect_answers": [
+                "Circle Line",
+                "Bakerloo Line",
+                "Victoria Line"
+            ]
+        },
+        {
+            "question": "Which of the following card games revolves around numbers and basic math?",
+            "correct_answer": "Uno",
+            "incorrect_answers": [
+                "Go Fish",
+                "Twister",
+                "Munchkin"
+            ]
+        }
+    ],
+    "General Knowledge_multiple_medium": [
+        {
+            "question": "This field is sometimes known as The Dismal Science.",
+            "correct_answer": "Economics",
+            "incorrect_answers": [
+                "Philosophy",
+                "Politics",
+                "Physics"
+            ]
+        },
+        {
+            "question": "Rolex is a company that specializes in what type of product?",
+            "correct_answer": "Watches",
+            "incorrect_answers": [
+                "Cars",
+                "Computers",
+                "Sports equipment"
+            ]
+        },
+        {
+            "question": "What is a dakimakura?",
+            "correct_answer": "A body pillow",
+            "incorrect_answers": [
+                "A Chinese meal, essentially composed of fish",
+                "A yoga posture",
+                "A word used to describe two people who truly love each other"
+            ]
+        },
+        {
+            "question": "Who is a co-founder of music streaming service Spotify?",
+            "correct_answer": "Daniel Ek",
+            "incorrect_answers": [
+                "Sean Parker",
+                "Felix Miller",
+                "Michael Breidenbruecker"
+            ]
+        },
+        {
+            "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+            "correct_answer": "Bullfighting",
+            "incorrect_answers": [
+                "Fiestas",
+                "Flamenco",
+                "Mariachi"
+            ]
+        },
+        {
+            "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+            "correct_answer": "David Childs",
+            "incorrect_answers": [
+                "Bjarke Ingels",
+                "Michael Arad",
+                "Fumihiko Maki"
+            ]
+        },
+        {
+            "question": "In what year was McDonald's founded?",
+            "correct_answer": "1955",
+            "incorrect_answers": [
+                "1964",
+                "1951",
+                "1947"
+            ]
+        },
+        {
+            "question": "What was Mountain Dew's original slogan?",
+            "correct_answer": "Yahoo! Mountain Dew... It'll tickle your innards!",
+            "incorrect_answers": [
+                "Give Me A Dew",
+                "Do The Dew",
+                "Get that barefoot feeling drinkining Mountain Dew"
+            ]
+        },
+        {
+            "question": "Which slogan did the fast food company, McDonald's, use before their I'm Lovining It slogan?",
+            "correct_answer": "We Love to See You Smile",
+            "incorrect_answers": [
+                "Why Pay More!?",
+                "Have It Your Way",
+                "Making People Happy Through Food"
+            ]
+        },
+        {
+            "question": "Which company's original slogan was Don't be evil?",
+            "correct_answer": "Google",
+            "incorrect_answers": [
+                "Apple",
+                "Yahoo",
+                "Microsoft"
+            ]
+        }
+    ],
+    "General Knowledge_multiple_hard": [
+        {
+            "question": "What is the romanized Korean word for heart?",
+            "correct_answer": "Simjang",
+            "incorrect_answers": [
+                "Aejeong",
+                "Jeongsin",
+                "Segseu"
+            ]
+        },
+        {
+            "question": "What is the romanized Arabic word for moon?",
+            "correct_answer": "Qamar",
+            "incorrect_answers": [
+                "Najma",
+                "Kawkab",
+                "Shams"
+            ]
+        },
+        {
+            "question": "Disney's Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+            "correct_answer": "Harry",
+            "incorrect_answers": [
+                "Gus",
+                "Phineas",
+                "Ezra"
+            ]
+        },
+        {
+            "question": "What was Bank of America originally established as?",
+            "correct_answer": "Bank of Italy",
+            "incorrect_answers": [
+                "Bank of Long Island",
+                "Bank of Pennsylvania",
+                "Bank of Charlotte"
+            ]
+        },
+        {
+            "question": "What does the Latin phrase Veni, vidi, vici translate into English?",
+            "correct_answer": "I came, I saw, I conquered",
+            "incorrect_answers": [
+                "See no evil, hear no evil, speak no evil",
+                "Life, liberty, and happiness",
+                "Past, present, and future"
+            ]
+        },
+        {
+            "question": "In flight systems, what does the initialism TCAS stand for?",
+            "correct_answer": "Traffic Collision Avoidance System",
+            "incorrect_answers": [
+                "Traffic Communication Alert System",
+                "Traffic Configuration Alignment System",
+                "Traffic Call-sign Abbreviation System"
+            ]
+        },
+        {
+            "question": "Chartreuse is a color between yellow and what?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+                "Red",
+                "Black",
+                "Purple"
+            ]
+        },
+        {
+            "question": "Nephelococcygia is the practice of doing what?",
+            "correct_answer": "Finding shapes in clouds",
+            "incorrect_answers": [
+                "Sleeping with your eyes open",
+                "Breaking glass with your voice",
+                "Swimming in freezing water"
+            ]
+        },
+        {
+            "question": "The Quadrangularis Reversum is best described as which of the following?",
+            "correct_answer": "A percussion instrument",
+            "incorrect_answers": [
+                "A building in Oxford University",
+                "A chess move",
+                "A geometric theorem"
+            ]
+        },
+        {
+            "question": "Where is Apple Inc. headquartered?",
+            "correct_answer": "Cupertino, California",
+            "incorrect_answers": [
+                "Redwood City, California",
+                "Redmond, Washington",
+                "Santa Monica, CA"
+            ]
+        }
+    ],
+    "General Knowledge_boolean_easy": [
+        {
+            "question": "Gumbo is a stew that originated in Louisiana.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "French is an official language in Canada.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The Sun rises from the North.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "You can legally drink alcohol while driving in Mississippi.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The Lego Group was founded in 1932.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "27 Club is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "General Knowledge_boolean_medium": [
+        {
+            "question": "The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The vapor produced by e-cigarettes is actually water.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The word news originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "An eggplant is a vegetable.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The bikini is named after the Bikini Atoll, an island where the United States conducted tests on atomic bombs.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "You are allowed to sell your soul on eBay.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The French word to travel is Travail",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Albert Einstein had trouble with mathematics when he was in school.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Fast food restaurant chains Carl's Jr. and Hardee's are owned by the same company.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Santa Claus is a variety of melon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "History_boolean_hard": [
+        {
+            "question": "The Kingdom of Prussia briefly held land in Estonia.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The USS Missouri (BB-63) last served in the Korean War.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "Entertainment: Video Games_boolean_hard": [
+        {
+            "question": "Unturned originally started as a Roblox game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "All of these maps were in Tom Clancy's Rainbow Six Siege on its initial release: House, Clubhouse, Border, Consulate.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "Entertainment: Music_boolean_hard": [
+        {
+            "question": "The band STRFKR was also briefly known as Pyramiddd.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Pete Townshend's solo album, White City: A Novel, is set in the metropolitan area of Chicago.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The song Mystery Train was released by artist Little Junior's Blue Flames in 1953.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The band STRFKR was also briefly known as Pyramiddd.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Pete Townshend's solo album, White City: A Novel, is set in the metropolitan area of Chicago.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The song Scatman's World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "Entertainment: Board Games_boolean_hard": [
+        {
+            "question": "The board game Go has more possible legal positions than the number of atoms in the visible universe.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "Entertainment: Film_boolean_hard": [
+        {
+            "question": "The weapon Clint Eastwood uses in Dirty Harry was a .44 Automag.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Cube, Cube 2: Hypercube and Cube Zero were directed by the same person.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The weapon Clint Eastwood uses in Dirty Harry was a .44 Automag.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "Politics_boolean_hard": [
+        {
+            "question": "George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "Geography_boolean_hard": [
+        {
+            "question": "The two largest ethnic groups of Belgium are Flemish and Walloon. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Switzerland has four national languages, English being one of them.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The two largest ethnic groups of Belgium are Flemish and Walloon. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "Entertainment: Film_multiple_easy": [
+        {
+            "question": "Which of the following movies was not based on a novel by Stephen King? ",
+            "correct_answer": "The Thing",
+            "incorrect_answers": [
+                "Carrie",
+                "Misery",
+                "The Green Mile"
+            ]
+        },
+        {
+            "question": "Who directed E.T. the Extra-Terrestrial (1982)?",
+            "correct_answer": "Steven Spielberg",
+            "incorrect_answers": [
+                "Stanley Kubrick",
+                "James Cameron",
+                "Tim Burton"
+            ]
+        },
+        {
+            "question": "Which actress danced the twist with John Travolta in Pulp Fiction?",
+            "correct_answer": "Uma Thurman",
+            "incorrect_answers": [
+                "Kathy Griffin",
+                "Pam Grier",
+                "Bridget Fonda"
+            ]
+        },
+        {
+            "question": "Which movie contains the quote, Say hello to my little friend!?",
+            "correct_answer": "Scarface",
+            "incorrect_answers": [
+                "Reservoir Dogs",
+                "Heat",
+                "Goodfellas"
+            ]
+        },
+        {
+            "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+            "correct_answer": "Highlander",
+            "incorrect_answers": [
+                "Flash Gordon",
+                "Labyrinth",
+                "Howard the Duck"
+            ]
+        },
+        {
+            "question": "What is the orange and white bot's name in Star Wars: The Force Awakens?",
+            "correct_answer": "BB-8",
+            "incorrect_answers": [
+                "BB-3",
+                "AA-A",
+                "R2-D2"
+            ]
+        },
+        {
+            "question": "In the movie Cast Away the main protagonist's best friend while on the island is named",
+            "correct_answer": "Wilson",
+            "incorrect_answers": [
+                "Carson",
+                "Jackson",
+                "Willy"
+            ]
+        },
+        {
+            "question": "Who in Pulp Fiction says No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is.",
+            "correct_answer": "Vincent Vega",
+            "incorrect_answers": [
+                "Jules Winnfield",
+                "Jimmie Dimmick",
+                "Butch Coolidge"
+            ]
+        },
+        {
+            "question": "In the 2012 film, The Lorax, who is the antagonist?",
+            "correct_answer": "Aloysius O'Hare",
+            "incorrect_answers": [
+                "Ted Wiggins",
+                "The Once-Ler",
+                "Grammy Norma"
+            ]
+        },
+        {
+            "question": "Who plays the character of Po in the Kung Fu Panda movies?",
+            "correct_answer": "Jack Black",
+            "incorrect_answers": [
+                "Mirana Jonnes",
+                "McConahey Ramses",
+                "Jim Petersson"
+            ]
+        }
+    ],
+    "Entertainment: Film_multiple_medium": [
+        {
+            "question": "Which of the following is NOT a quote from the 1942 film Casablanca? ",
+            "correct_answer": "Frankly, my dear, I don't give a damn.",
+            "incorrect_answers": [
+                "Here's looking at you, kid.",
+                "Of all the gin joints, in all the towns, in all the world, she walks into mine&hellip;",
+                "Round up the usual suspects."
+            ]
+        },
+        {
+            "question": "In the film Interstellar, how long did they spend on Miller's planet?",
+            "correct_answer": "23 years, 4 months, and 8 days",
+            "incorrect_answers": [
+                "15 years, 2 months, and 15 days",
+                "10 months and 6 days",
+                "26 years, 4 months, and 10 days"
+            ]
+        },
+        {
+            "question": "In which African country was the 2006 film Blood Diamonds mostly set in?",
+            "correct_answer": "Sierra Leone",
+            "incorrect_answers": [
+                "Liberia",
+                "Burkina Faso",
+                "Central African Republic"
+            ]
+        },
+        {
+            "question": "What is the name of the Artificial Intelligence system in the 1983 film, WarGames?",
+            "correct_answer": "War Operation Plan Response",
+            "incorrect_answers": [
+                "Self Evolving Thought Helix",
+                "Master Control Program",
+                "West Campus Analog Computer"
+            ]
+        },
+        {
+            "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+            "correct_answer": "October 21, 2015",
+            "incorrect_answers": [
+                "August 28, 2015",
+                "July 20, 2015",
+                "January 25, 2015"
+            ]
+        },
+        {
+            "question": "What year did the James Cameron film Titanic come out in theaters?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1996",
+                "1998",
+                "1999"
+            ]
+        },
+        {
+            "question": "Which documentary film maker wrote and starred in the film My Scientology Movie which first debuted in 2015?",
+            "correct_answer": "Louis Theroux",
+            "incorrect_answers": [
+                "Errol Morris",
+                "Joe Berlinger",
+                "Adam Curtis"
+            ]
+        },
+        {
+            "question": "What is the make and model of the tour vehicles in Jurassic Park?",
+            "correct_answer": "1992 Ford Explorer XLT",
+            "incorrect_answers": [
+                "1992 Toyota Land Cruiser",
+                "1992 Jeep Wrangler YJ Sahar",
+                "Mercedes M-Class"
+            ]
+        },
+        {
+            "question": "In Finding Nemo, what was the name of Nemo's mom?",
+            "correct_answer": "Coral",
+            "incorrect_answers": [
+                "Sandy",
+                "Pearl",
+                "Shelly"
+            ]
+        },
+        {
+            "question": "In the Friday The 13th series, what is Jason's mother's first name?",
+            "correct_answer": "Pamela",
+            "incorrect_answers": [
+                "Mary",
+                "Christine",
+                "Angeline"
+            ]
+        }
+    ],
+    "Entertainment: Film_multiple_hard": [
+        {
+            "question": "What was the last Marx Brothers film to feature Zeppo?",
+            "correct_answer": "Duck Soup",
+            "incorrect_answers": [
+                "A Night at the Opera",
+                "A Day at the Races",
+                "Monkey Business"
+            ]
+        },
+        {
+            "question": "What is the name of the assassin in the first Hellboy movie?",
+            "correct_answer": "Karl Ruprecht Kroenen",
+            "incorrect_answers": [
+                "Klaus Werner von Krupt",
+                "Grigori Efimovich Rasputin",
+                "Ilsa Haupstein"
+            ]
+        },
+        {
+            "question": "What did the first moving picture depict?",
+            "correct_answer": "A galloping horse",
+            "incorrect_answers": [
+                "A woman in a dress",
+                "A man walking",
+                "A crackling fire"
+            ]
+        },
+        {
+            "question": "In 2012, which movie won every category in the 32nd Golden Raspberry Awards?",
+            "correct_answer": "Jack and Jill",
+            "incorrect_answers": [
+                "The Girl with the Dragon Tattoo",
+                "Thor",
+                "The King's Speech"
+            ]
+        },
+        {
+            "question": "What was the first movie to ever use a Wilhelm Scream?",
+            "correct_answer": "Distant Drums",
+            "incorrect_answers": [
+                "Treasure of the Sierra Madre",
+                "The Charge at Feather River",
+                "Indiana Jones"
+            ]
+        },
+        {
+            "question": "What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",
+            "correct_answer": "Gunnar Hansen",
+            "incorrect_answers": [
+                "Edwin Neal",
+                "John Dugan",
+                "Joe Bill Hogan"
+            ]
+        },
+        {
+            "question": "In what year does Jurassic World open in the Jurassic Park universe?",
+            "correct_answer": "2005",
+            "incorrect_answers": [
+                "2007",
+                "2015",
+                "2020"
+            ]
+        },
+        {
+            "question": "In the Jurassic Park universe, what was the first dinosaur cloned by InGen in 1986?",
+            "correct_answer": "Velociraptor",
+            "incorrect_answers": [
+                "Triceratops",
+                "Troodon",
+                "Brachiosaurus"
+            ]
+        },
+        {
+            "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+            "correct_answer": "Dave",
+            "incorrect_answers": [
+                "John",
+                "Will",
+                "Carl"
+            ]
+        },
+        {
+            "question": "In Big Hero 6, what were Baymax's motions modeled after?",
+            "correct_answer": "Baby penguins",
+            "incorrect_answers": [
+                "Baby monkeys",
+                "Baby ostriches",
+                "Baby bears"
+            ]
+        }
+    ],
+    "Entertainment: Film_boolean_easy": [
+        {
+            "question": "Han Solo's co-pilot and best friend, Chewbacca, is an Ewok.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The movie The Nightmare before Christmas was all done with physical objects.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Shaquille O'Neal appeared in the 1997 film Space Jam.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "In the movie The Revenant, DiCaprio's character hunts down the killer of his son.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Minions was released on the June 10th, 2015.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Actor Tommy Chong served prison time.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Foodfight! earned less than $80,000 at box office.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "Entertainment: Film_boolean_medium": [
+        {
+            "question": "There aren't any live-action clones in Star Wars: Episode III - Revenge of the Sith.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The colour of the pills in the Matrix were Blue and Yellow.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The Xenomorph from the science fiction film Alien has acidic blood.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Sean Connery wasn't in Indiana Jones and the Kingdom of the Crystal Skull because he found retirement too enjoyable.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Joan Cusack starred in the 2009 disaster movie, 2012.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The movie Tron received an Oscar nomination for Best Visual Effects.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "Entertainment: Music_multiple_easy": [
+        {
+            "question": "Which Canadian reggae musician had a 1993 hit with the song Informer?",
+            "correct_answer": "Snow",
+            "incorrect_answers": [
+                "Rain",
+                "Hail",
+                "Sleet"
+            ]
+        },
+        {
+            "question": "Who had a 1969 top 5 hit with the song, A Boy Named Sue?",
+            "correct_answer": "Johnny Cash",
+            "incorrect_answers": [
+                "Bob Dylan",
+                "Willie Nelson",
+                "Kris Kristofferson"
+            ]
+        },
+        {
+            "question": "Which singer was featured in Jack Ü (Skrillex & Diplo)'s 2015 song Where Are Ü Now?",
+            "correct_answer": "Justin Bieber",
+            "incorrect_answers": [
+                "Selena Gomez",
+                "Ellie Goulding",
+                "The Weeknd"
+            ]
+        },
+        {
+            "question": "The Red Hot Chili Pepper song Give It Away is from what album?",
+            "correct_answer": "Blood Sugar Sex Magik",
+            "incorrect_answers": [
+                "One Hot Minute",
+                "By the Way",
+                "Stadium Arcadium"
+            ]
+        },
+        {
+            "question": "Which of these songs by Skrillex features Fatman Scoop as a side artist?",
+            "correct_answer": "Recess",
+            "incorrect_answers": [
+                "All is Fair in Love and Brostep",
+                "Rock N Roll (Will Take You to the Mountain)",
+                "Scary Monsters and Nice Sprites"
+            ]
+        },
+        {
+            "question": "Finish these lyrics from the 2016 song Panda by Desiigner: I got broads in _______.",
+            "correct_answer": "Atlanta",
+            "incorrect_answers": [
+                "Savannah",
+                "Augusta",
+                "Marietta"
+            ]
+        },
+        {
+            "question": "What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?",
+            "correct_answer": "Blonde",
+            "incorrect_answers": [
+                "Brunette",
+                "Black",
+                "Burgundy"
+            ]
+        },
+        {
+            "question": "Which of these is the name of a song by Tears for Fears?",
+            "correct_answer": "Shout",
+            "incorrect_answers": [
+                "Scream",
+                "Yell",
+                "Shriek"
+            ]
+        },
+        {
+            "question": "Who was featured in the song Words by Feint? ",
+            "correct_answer": "Laura Brehm",
+            "incorrect_answers": [
+                "Anna Yvette ",
+                "Danyka Nadeau",
+                "Veela"
+            ]
+        },
+        {
+            "question": "What was the best selling album of 2015?",
+            "correct_answer": "Adele, 25",
+            "incorrect_answers": [
+                "Fetty Wap, Fetty Wap",
+                "Taylor Swift, 1989",
+                "Justin Bieber, Purpose"
+            ]
+        }
+    ],
+    "Entertainment: Music_multiple_medium": [
+        {
+            "question": "Which Elton John hit starts with the line When are you gonna come down?",
+            "correct_answer": "Goodbye Yellow Brick Road",
+            "incorrect_answers": [
+                "Rocket Man",
+                "Bennie and the Jets",
+                "Crocodile Rock"
+            ]
+        },
+        {
+            "question": "Saul Hudson (Slash) of the band Guns N' Roses is known for playing what type of guitar?",
+            "correct_answer": "Les Paul Standard",
+            "incorrect_answers": [
+                "Fender Stratocaster",
+                "LsL Mongrel",
+                "Gretsch Falcon"
+            ]
+        },
+        {
+            "question": "In which city did American rap producer DJ Khaled originate from?",
+            "correct_answer": "Miami",
+            "incorrect_answers": [
+                "New York",
+                "Detroit",
+                "Atlanta"
+            ]
+        },
+        {
+            "question": "May 16th of every year is known as __________ Day, named after a punk band prominent in the 1990s.",
+            "correct_answer": "Lagwagon",
+            "incorrect_answers": [
+                "Goldfinger",
+                "Less Than Jake",
+                "Lit"
+            ]
+        },
+        {
+            "question": "Who is the frontman of Muse?",
+            "correct_answer": "Matt Bellamy",
+            "incorrect_answers": [
+                "Dominic Howard",
+                "Thom Yorke",
+                "Jonny Greenwood"
+            ]
+        },
+        {
+            "question": "Which country does the electronic music duo The Knife originate from?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": [
+                "Finland",
+                "Denmark",
+                "Norway"
+            ]
+        },
+        {
+            "question": "What year was Red Hot Chill Pepper's album Californication released?",
+            "correct_answer": "1999",
+            "incorrect_answers": [
+                "1997",
+                "2000",
+                "1992"
+            ]
+        },
+        {
+            "question": "In what film was the Michael Jackson song Will You Be There featured?",
+            "correct_answer": "Free Willy",
+            "incorrect_answers": [
+                "Sleepless in Seattle",
+                "Men in Black",
+                "Bad Boys"
+            ]
+        },
+        {
+            "question": "What is rapper Drake's real name?",
+            "correct_answer": "Aubrey Graham",
+            "incorrect_answers": [
+                "Shaun Carter",
+                "Dwayne Carter",
+                "Andre Young"
+            ]
+        },
+        {
+            "question": "The Who's eponymous line, Teenage Wasteland, appears in which of their songs?",
+            "correct_answer": "Baba O' Riley",
+            "incorrect_answers": [
+                "The Seeker",
+                "Won't Get Fooled Again",
+                "Pinball Wizard"
+            ]
+        }
+    ],
+    "Entertainment: Music_multiple_hard": [
+        {
+            "question": "Who was the original drummer for The Beatles?",
+            "correct_answer": "Tommy Moore",
+            "incorrect_answers": [
+                "Ringo Starr",
+                "Stuart Sutcliffe",
+                "Pete Best"
+            ]
+        },
+        {
+            "question": "Which member of the English band The xx released their solo album In Colour in 2015?",
+            "correct_answer": "Jamie xx",
+            "incorrect_answers": [
+                "Romy Madley Croft",
+                "Oliver Sim",
+                "Baria Qureshi"
+            ]
+        },
+        {
+            "question": "What is the British term for a 64th note?",
+            "correct_answer": "Hemidemisemiquaver",
+            "incorrect_answers": [
+                "Semihemidemisemiquaver",
+                "Semiquaver",
+                "Demisemiquaver"
+            ]
+        },
+        {
+            "question": "Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume & Chet Faker?",
+            "correct_answer": "Left Alone",
+            "incorrect_answers": [
+                "What About Us",
+                "This Song Is Not About A Girl",
+                "Drop The Game"
+            ]
+        },
+        {
+            "question": "Which of the following is NOT a real song from the band Thousand Foot Krutch?",
+            "correct_answer": "Limitless Fury",
+            "incorrect_answers": [
+                "Let The Sparks Fly",
+                "Down",
+                "Give Up The Ghost"
+            ]
+        },
+        {
+            "question": "The key of sharps does the key of G# minor contain?",
+            "correct_answer": "5",
+            "incorrect_answers": [
+                "3",
+                "7",
+                "0"
+            ]
+        },
+        {
+            "question": "This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.",
+            "correct_answer": "The Velvet Underground and Nico",
+            "incorrect_answers": [
+                "Abbey Road",
+                "Led Zeppelin IV",
+                "Pet Sounds"
+            ]
+        },
+        {
+            "question": "Who designed the album cover for True Romance, an album by Estelle?",
+            "correct_answer": "Rebecca Sugar",
+            "incorrect_answers": [
+                "Matt Burnett",
+                "Ian Jones Quartey",
+                "Ben Leven"
+            ]
+        },
+        {
+            "question": "Which album was released by Kanye West in 2013?",
+            "correct_answer": "Yeezus",
+            "incorrect_answers": [
+                "My Beautiful Dark Twisted Fantasy",
+                "The Life of Pablo",
+                "Watch the Throne"
+            ]
+        },
+        {
+            "question": "What was the name of the cold-war singer who has a song in Grand Theft Auto IV, and a wall landmark in Moscow for his memorial?",
+            "correct_answer": "Viktor Tsoi",
+            "incorrect_answers": [
+                "Jimi Hendrix",
+                "Brian Jones",
+                "Vladimir Vysotsky"
+            ]
+        }
+    ],
+    "Entertainment: Music_boolean_easy": [
+        {
+            "question": "The music group Daft Punk got their name from a negative review they recieved.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The music video to The Buggle's Video Killed the Radio Star was the first music video to broadcast on MTV.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Eurobeat is primarily an Italian genre of music.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "American rapper Dr. Dre actually has a Ph.D. doctorate.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The alternative rock band, They Might Be Giants, released their album Flood in 1990. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The song Stronger Than You is a single by Estelle, who played Garnet in Steven Universe.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Daft Punk originated in France.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Stevie Wonder's real name is Stevland Hardaway Morris.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Scatman John's real name was John Paul Larkin.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Michael Jackson wrote The Simpsons song Do the Bartman.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "Entertainment: Music_boolean_medium": [
+        {
+            "question": "Arcade Fire's The Suburbs won the Album of the Year award in the 2011 Grammys.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Soulja Boy's Crank That won a Grammy for Best Rap Song in 2007.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Scottish producer Calvin Harris is from the town of Dumfries, Scotland.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The country song  A Boy Named Sue was written by Shel Silverstein.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Ashley Frangipane performs under the stage name Halsey.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Twenty One Pilots made the song The Motion featuring Sampha.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his Mothership set piece for one night only.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "3 members of 2 Live Crew were arrested for playing songs from their album, As Nasty As They Wanna Be, live.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Pink Guy's debut album was Pink Season.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Musical artist, Future, collaborated with Kendrick Lamar for the song: Mask Off.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "Geography_multiple_easy": [
+        {
+            "question": "Which city is the capital of the United States of America?",
+            "correct_answer": "Washington D.C",
+            "incorrect_answers": [
+                "Seattle",
+                "Albany",
+                "Los Angeles"
+            ]
+        },
+        {
+            "question": "What is the capital of the American state of Arizona?",
+            "correct_answer": "Phoenix",
+            "incorrect_answers": [
+                "Montgomery",
+                "Tallahassee",
+                "Raleigh"
+            ]
+        },
+        {
+            "question": "What is the capital of Indonesia?",
+            "correct_answer": "Jakarta",
+            "incorrect_answers": [
+                "Bandung",
+                "Medan",
+                "Palembang"
+            ]
+        },
+        {
+            "question": "How many federal states does Germany have?",
+            "correct_answer": "16",
+            "incorrect_answers": [
+                "13",
+                "32",
+                "25"
+            ]
+        },
+        {
+            "question": "The derisive acronym PIIGS refers to which of the following European countries and their economic statuses?",
+            "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
+            "incorrect_answers": [
+                "Poland, Iceland, Italy, Greece, Serbia",
+                "Poland, Iceland, Italy, Greenland, Spain",
+                "Portugal, Iceland, Ireland, Greece, Serbia"
+            ]
+        },
+        {
+            "question": "Which nation claims ownership of Antarctica?",
+            "correct_answer": "No one, but there are claims.",
+            "incorrect_answers": [
+                "United States of America",
+                "United Nations",
+                "Australia"
+            ]
+        },
+        {
+            "question": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+                "Kuwait",
+                "United Arab Emirates",
+                "Jordan"
+            ]
+        },
+        {
+            "question": "Which of these African countries list Spanish as an official language?",
+            "correct_answer": "Equatorial Guinea",
+            "incorrect_answers": [
+                "Guinea",
+                "Cameroon",
+                "Angola"
+            ]
+        },
+        {
+            "question": "Which country is the home of the largest Japanese population outside of Japan?",
+            "correct_answer": "Brazil",
+            "incorrect_answers": [
+                "China",
+                "Russia",
+                "The United States"
+            ]
+        },
+        {
+            "question": "Which ocean borders the west coast of the United States?",
+            "correct_answer": "Pacific",
+            "incorrect_answers": [
+                "Atlantic",
+                "Indian",
+                "Arctic"
+            ]
+        }
+    ],
+    "Geography_multiple_medium": [
+        {
+            "question": "What is the capital of Chile?",
+            "correct_answer": "Santiago",
+            "incorrect_answers": [
+                "Valpara&iacute;so",
+                "Copiap&oacute;",
+                "Antofagasta"
+            ]
+        },
+        {
+            "question": "Which of the following countries is within the Eurozone but outside of the Schengen Area?",
+            "correct_answer": "Cyprus",
+            "incorrect_answers": [
+                "Malta",
+                "Greece",
+                "Portugal"
+            ]
+        },
+        {
+            "question": "Which of the following language families is the most controversial amongst modern linguists?",
+            "correct_answer": "Altaic",
+            "incorrect_answers": [
+                "Sino-Tibetan",
+                "Dravidian",
+                "Indo-European"
+            ]
+        },
+        {
+            "question": "Which of the following countries banned the use of personal genetic ancestry tests?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Austria",
+                "Canada",
+                "Sweden"
+            ]
+        },
+        {
+            "question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+            "correct_answer": "United States",
+            "incorrect_answers": [
+                "Australia",
+                "Chile",
+                "Norway"
+            ]
+        },
+        {
+            "question": "Where is the area commonly known as the Bermuda Triangle?",
+            "correct_answer": "North Atlantic Ocean, between Florida and Puerto Rico",
+            "incorrect_answers": [
+                "North Pacific Ocean, between Japan and the USA",
+                "In the Caribbean Sea",
+                "South Pacific Ocean, far off Chile"
+            ]
+        },
+        {
+            "question": "Where is Earth's South Magnetic Pole?",
+            "correct_answer": "The North Pole",
+            "incorrect_answers": [
+                "The South Pole",
+                "The Tropic of Cancer",
+                "The Equator"
+            ]
+        },
+        {
+            "question": "Which of these is NOT an island that is part of the Philippines?",
+            "correct_answer": "Java",
+            "incorrect_answers": [
+                "Luzon",
+                "Mindanao",
+                "Palawan"
+            ]
+        },
+        {
+            "question": "The World Health Organization headquarters is located in which European country?",
+            "correct_answer": "Switzerland",
+            "incorrect_answers": [
+                "United Kingdom",
+                "France",
+                "Belgium"
+            ]
+        },
+        {
+            "question": "Colchester Overpass, otherwise known as Bunny Man Bridge, is located where?",
+            "correct_answer": "Fairfax County, Virginia",
+            "incorrect_answers": [
+                "Medford, Oregon",
+                "Braxton County, Virgina",
+                "Lemon Grove, California"
+            ]
+        }
+    ],
+    "Geography_multiple_hard": [
+        {
+            "question": "What country is not a part of Scandinavia?",
+            "correct_answer": "Finland",
+            "incorrect_answers": [
+                "Norway",
+                "Sweden",
+                "Denmark"
+            ]
+        },
+        {
+            "question": "Which of these is NOT a province in China?",
+            "correct_answer": "Yangtze",
+            "incorrect_answers": [
+                "Fujian",
+                "Sichuan",
+                "Guangdong"
+            ]
+        },
+        {
+            "question": "The mountainous Khyber Pass connects which of the two following countries?",
+            "correct_answer": "Afghanistan and Pakistan",
+            "incorrect_answers": [
+                "India and Nepal",
+                "Pakistan and India",
+                "Tajikistan and Kyrgyzstan"
+            ]
+        },
+        {
+            "question": "What is the name of one of the Neo-Aramaic languages spoken by the Jewish population from Northwestern Iraq?",
+            "correct_answer": "Lishana Deni",
+            "incorrect_answers": [
+                "Hulaul&aacute;",
+                "Lishan Didan",
+                "Chaldean Neo-Aramaic"
+            ]
+        },
+        {
+            "question": "What is the most populous Muslim-majority nation in 2010?",
+            "correct_answer": "Indonesia",
+            "incorrect_answers": [
+                "Saudi Arabia",
+                "Iran",
+                "Sudan"
+            ]
+        },
+        {
+            "question": "What North American tourist attraction is served by the Maid of the Mist tour company?",
+            "correct_answer": "Niagara Falls",
+            "incorrect_answers": [
+                "Whistler, British Columbia",
+                "Disney World",
+                "Yosemite National Park"
+            ]
+        },
+        {
+            "question": "What is Canada's largest island?",
+            "correct_answer": "Baffin Island",
+            "incorrect_answers": [
+                "Prince Edward Island",
+                "Vancouver Island",
+                "Newfoundland"
+            ]
+        },
+        {
+            "question": "What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?",
+            "correct_answer": "Grand Banks",
+            "incorrect_answers": [
+                "Great Barrier Reef",
+                "Mariana Trench",
+                "Hudson Bay"
+            ]
+        },
+        {
+            "question": "What is the capital city of Bermuda?",
+            "correct_answer": "Hamilton",
+            "incorrect_answers": [
+                "Santo Dominigo",
+                "San Juan",
+                "Havana"
+            ]
+        },
+        {
+            "question": "What is the capital of Mauritius?",
+            "correct_answer": "Port Louis",
+            "incorrect_answers": [
+                "Port Moresby",
+                "Port Vila",
+                "Port-au-Prince"
+            ]
+        }
+    ],
+    "Geography_boolean_easy": [
+        {
+            "question": "Greenland is almost as big as Africa.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "A group of islands is called an archipelago.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The Republic of Malta is the smallest microstate worldwide.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "There is a city called Rome in every continent on Earth.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Alaska is the largest state in the United States.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Ottawa is the capital of Canada.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "There are no deserts in Europe.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "California is larger than Japan.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Tokyo is the capital of Japan.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "New Haven is the capital city of the state of Connecticut in the United States.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "Geography_boolean_medium": [
+        {
+            "question": "The flag of South Africa features 7 colours.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The surface area of Russia is slightly larger than that of the dwarf planet Pluto.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "There exists an island named Java.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Mongolia was a part of the now non-existent U.S.S.R.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Antarctica is the largest desert in the world.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "You could walk from Norway to North Korea while only passing through Russia.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Japan has left-hand side traffic.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Liechtenstein does not have an airport.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Norway has a larger land area than Sweden.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "Science & Nature_multiple_easy": [
+        {
+            "question": "Which Apollo mission was the first one to land on the Moon?",
+            "correct_answer": "Apollo 11",
+            "incorrect_answers": [
+                "Apollo 10",
+                "Apollo 9",
+                "Apollo 13"
+            ]
+        },
+        {
+            "question": "Which of the following bones is not in the leg?",
+            "correct_answer": "Radius",
+            "incorrect_answers": [
+                "Patella",
+                "Tibia",
+                "Fibula "
+            ]
+        },
+        {
+            "question": "How many objects are equivalent to one mole?",
+            "correct_answer": "6.022 x 10^23",
+            "incorrect_answers": [
+                "6.002 x 10^22",
+                "6.022 x 10^22",
+                "6.002 x 10^23"
+            ]
+        },
+        {
+            "question": "What is the elemental symbol for mercury?",
+            "correct_answer": "Hg",
+            "incorrect_answers": [
+                "Me",
+                "Mc",
+                "Hy"
+            ]
+        },
+        {
+            "question": "How many planets are in our Solar System?",
+            "correct_answer": "Eight",
+            "incorrect_answers": [
+                "Nine",
+                "Seven",
+                "Ten"
+            ]
+        },
+        {
+            "question": "Which gas forms about 78% of the Earth's atmosphere?",
+            "correct_answer": "Nitrogen",
+            "incorrect_answers": [
+                "Oxygen",
+                "Argon",
+                "Carbon Dioxide"
+            ]
+        },
+        {
+            "question": "How many planets make up our Solar System?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "7",
+                "9",
+                "6"
+            ]
+        },
+        {
+            "question": "What is the standard atomic weight of a Plutonium nucleus?",
+            "correct_answer": "244",
+            "incorrect_answers": [
+                "94",
+                "481",
+                "128"
+            ]
+        },
+        {
+            "question": "What does LASER stand for?",
+            "correct_answer": "Light amplifiaction by stimulated eminission of radioation",
+            "incorrect_answers": [
+                "Lite analysing by stereo ecorazer",
+                "Light ampiflier by standby energy of radio",
+                "Life antimatter by standing entry of range"
+            ]
+        },
+        {
+            "question": "What is the unit of electrical resistance?",
+            "correct_answer": "Ohm",
+            "incorrect_answers": [
+                "Mho",
+                "Tesla",
+                "Joule"
+            ]
+        }
+    ],
+    "Science & Nature_multiple_medium": [
+        {
+            "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
+            "correct_answer": "212",
+            "incorrect_answers": [
+                "326",
+                "100",
+                "451"
+            ]
+        },
+        {
+            "question": "Au on the Periodic Table refers to which element?",
+            "correct_answer": "Gold",
+            "incorrect_answers": [
+                "Silver",
+                "Oxygen",
+                "Nickel"
+            ]
+        },
+        {
+            "question": "The medical condition osteoporosis affects which part of the body?",
+            "correct_answer": "Bones",
+            "incorrect_answers": [
+                "Skin",
+                "Brain",
+                "Heart"
+            ]
+        },
+        {
+            "question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
+            "correct_answer": "Reactivity",
+            "incorrect_answers": [
+                "Health",
+                "Flammability",
+                "Radioactivity"
+            ]
+        },
+        {
+            "question": "Myopia is the scientific term for which condition?",
+            "correct_answer": "Shortsightedness",
+            "incorrect_answers": [
+                "Farsightedness",
+                "Double Vision",
+                "Clouded Vision"
+            ]
+        },
+        {
+            "question": "Deuterium is an isotope of which element?",
+            "correct_answer": "Hydrogen",
+            "incorrect_answers": [
+                "Nitrogen",
+                "Helium",
+                "Neon"
+            ]
+        },
+        {
+            "question": "About how old is Earth?",
+            "correct_answer": "4.5 Billion Years",
+            "incorrect_answers": [
+                "3.5 Billion Years",
+                "2.5 Billion Years",
+                "5.5 Billion Years"
+            ]
+        },
+        {
+            "question": "The Sun consists of mostly which two elements?",
+            "correct_answer": "Hydrogen & Helium",
+            "incorrect_answers": [
+                "Hydrogen & Nitrogen",
+                "Carbon & Nitrogen",
+                "Carbon & Helium"
+            ]
+        },
+        {
+            "question": "What is the largest living organism currently known to man?",
+            "correct_answer": "Honey Fungus",
+            "incorrect_answers": [
+                "Blue Whale",
+                "Redwood Tree",
+                "The Coral Reef"
+            ]
+        },
+        {
+            "question": "On which mission did the Space Shuttle Columbia break up upon re-entry?",
+            "correct_answer": "STS-107",
+            "incorrect_answers": [
+                "STS-51-L",
+                "STS-61-C",
+                "STS-109"
+            ]
+        }
+    ],
+    "Science & Nature_multiple_hard": [
+        {
+            "question": "Which horizon in a soil profile consists of bedrock?",
+            "correct_answer": "R",
+            "incorrect_answers": [
+                "O",
+                "B",
+                "D"
+            ]
+        },
+        {
+            "question": "What is the scientific name of the knee cap?",
+            "correct_answer": "Patella",
+            "incorrect_answers": [
+                "Femur",
+                "Foramen Magnum",
+                "Scapula"
+            ]
+        },
+        {
+            "question": "The Big Bang Theory was first theorized by a priest of what religious ideology?",
+            "correct_answer": "Catholic",
+            "incorrect_answers": [
+                "Christian",
+                "Jewish",
+                "Islamic"
+            ]
+        },
+        {
+            "question": "What is the molecular formula of Ozone?",
+            "correct_answer": "O3",
+            "incorrect_answers": [
+                "C6H2O6",
+                "N2O",
+                "SO4"
+            ]
+        },
+        {
+            "question": "What does the term isolation refer to in microbiology?",
+            "correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
+            "incorrect_answers": [
+                "A lack of nutrition in microenviroments",
+                "The nitrogen level in soil",
+                "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
+            ]
+        },
+        {
+            "question": "How much radiation does a banana emit?",
+            "correct_answer": "0.1 Microsievert",
+            "incorrect_answers": [
+                "0.3 Microsievert",
+                "0.5 Microsievert",
+                "0.7 Microsievert"
+            ]
+        },
+        {
+            "question": "Burning which of these metals will produce a bright white flame?",
+            "correct_answer": "Magnesium",
+            "incorrect_answers": [
+                "Copper",
+                "Lithium",
+                "Lead"
+            ]
+        },
+        {
+            "question": "How long is a light-year?",
+            "correct_answer": "9.461 Trillion Kilometres",
+            "incorrect_answers": [
+                "1 AU",
+                "105.40 Earth-years",
+                "501.2 Million Miles"
+            ]
+        },
+        {
+            "question": "Coulrophobia is the irrational fear of what?",
+            "correct_answer": "Clowns",
+            "incorrect_answers": [
+                "Cemeteries",
+                "Needles",
+                "Tunnels"
+            ]
+        },
+        {
+            "question": "The Western Lowland Gorilla is scientifically know as?",
+            "correct_answer": "Gorilla Gorilla Gorilla",
+            "incorrect_answers": [
+                "Gorilla Gorilla Diehli",
+                "Gorilla Beringei Graueri",
+                "Gorilla Beringei Beringei"
+            ]
+        }
+    ],
+    "Science & Nature_boolean_easy": [
+        {
+            "question": "Igneous rocks are formed by excessive heat and pressure.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Salt is 100% composed of Sodium.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "An atom contains a nucleus.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "An exothermic reaction is a chemical reaction that releases energy by radiating electricity.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "An Astronomical Unit is the distance between Earth and the Moon.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "An average human can go two weeks without water.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Psychology is the science of behavior and mind.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "Science & Nature_boolean_medium": [
+        {
+            "question": "Chickens can live without a head.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Hippopotomonstrosesquippedaliophobia is the irrational fear of long words.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The Gympie Stinger is the deadliest plant in the world.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The planet Mars has two moons orbiting it.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "A defibrillator is used to start up a heartbeat once a heart has stopped beating.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Type 1 diabetes is a result of the liver working improperly.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body's inertia.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "Science & Nature_boolean_hard": [
+        {
+            "question": "You can calculate Induced Voltage using: epsilon; =-N * (d&Phi;B)/(d)",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Scientists can grow teeth from urine.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The chemical element Lithium is named after the country of Lithuania.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The value of one Calorie is different than the value of one calorie.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}

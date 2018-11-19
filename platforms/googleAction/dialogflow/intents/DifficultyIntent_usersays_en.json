@@ -1,0 +1,118 @@
+[
+	{
+		"data": [
+			{
+				"text": "I want ",
+				"userDefined": false
+			},
+			{
+				"text": "difficulty",
+				"userDefined": true,
+				"alias": "difficulty",
+				"meta": "@myDifficultyInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "difficulty",
+				"userDefined": true,
+				"alias": "difficulty",
+				"meta": "@myDifficultyInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Give me a ",
+				"userDefined": false
+			},
+			{
+				"text": "difficulty",
+				"userDefined": true,
+				"alias": "difficulty",
+				"meta": "@myDifficultyInputType"
+			},
+			{
+				"text": " quiz",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "I want a challenge so i choose ",
+				"userDefined": false
+			},
+			{
+				"text": "difficulty",
+				"userDefined": true,
+				"alias": "difficulty",
+				"meta": "@myDifficultyInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "I want something ",
+				"userDefined": false
+			},
+			{
+				"text": "difficulty",
+				"userDefined": true,
+				"alias": "difficulty",
+				"meta": "@myDifficultyInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "A ",
+				"userDefined": false
+			},
+			{
+				"text": "difficulty",
+				"userDefined": true,
+				"alias": "difficulty",
+				"meta": "@myDifficultyInputType"
+			},
+			{
+				"text": " quiz",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "difficulty",
+				"userDefined": true,
+				"alias": "difficulty",
+				"meta": "@myDifficultyInputType"
+			},
+			{
+				"text": " quiz",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]

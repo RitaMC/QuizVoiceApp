@@ -1,0 +1,17 @@
+{
+	"name": "TypeofQuestionIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "typeofquestion",
+					"value": "$typeofquestion",
+					"dataType": "@myTypeIntent"
+				}
+			]
+		}
+	]
+}

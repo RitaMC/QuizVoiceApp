@@ -1,0 +1,17 @@
+{
+	"name": "QuestionIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "number",
+					"value": "$number",
+					"dataType": "@sys.number"
+				}
+			]
+		}
+	]
+}

@@ -58,5 +58,25 @@
 		],
 		"isTemplate": false,
 		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Start a quiz game",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Start a quiz",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
 	}
 ]

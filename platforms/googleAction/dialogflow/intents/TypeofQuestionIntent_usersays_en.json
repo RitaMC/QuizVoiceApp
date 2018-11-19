@@ -1,0 +1,90 @@
+[
+	{
+		"data": [
+			{
+				"text": "You choose",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Both",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "typeofquestion",
+				"userDefined": true,
+				"alias": "typeofquestion",
+				"meta": "@myTypeIntent"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "I want a ",
+				"userDefined": false
+			},
+			{
+				"text": "typeofquestion",
+				"userDefined": true,
+				"alias": "typeofquestion",
+				"meta": "@myTypeIntent"
+			},
+			{
+				"text": " quiz",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "typeofquestion",
+				"userDefined": true,
+				"alias": "typeofquestion",
+				"meta": "@myTypeIntent"
+			},
+			{
+				"text": " quiz",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "A ",
+				"userDefined": false
+			},
+			{
+				"text": "typeofquestion",
+				"userDefined": true,
+				"alias": "typeofquestion",
+				"meta": "@myTypeIntent"
+			},
+			{
+				"text": " quiz",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]

@@ -18,7 +18,7 @@ const config = {
     },
     db: {
         type: 'dyanodb',
-        tableName: 'triviaGame'
+        tableName: 'quizGame'
     },
     saveUserOnResponseEnabled: true,
     userDataCol: 'userData',
@@ -34,7 +34,10 @@ const config = {
 const app = new App(config);
 
 // Using the setter
-app.setDynamoDb('triviaGame');
+app.setDynamoDb('quizGame');
+
+//Questions for the quiz
+var questions = require('./jsonfiles/question.json');
 
 // =================================================================================
 // App Logic
@@ -46,7 +49,7 @@ app.setHandler({
     },
 
     'WelcomeIntent': function(){
-        let user = this.user();
+        var user = this.user();
         user().data.points = 0;
         user().data.rank = "Apprentice";
 

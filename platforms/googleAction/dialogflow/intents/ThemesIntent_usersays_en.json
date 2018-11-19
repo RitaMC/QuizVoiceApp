@@ -1,0 +1,110 @@
+[
+	{
+		"data": [
+			{
+				"text": "I want the ",
+				"userDefined": false
+			},
+			{
+				"text": "theme",
+				"userDefined": true,
+				"alias": "theme",
+				"meta": "@myThemeInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Give me ",
+				"userDefined": false
+			},
+			{
+				"text": "theme",
+				"userDefined": true,
+				"alias": "theme",
+				"meta": "@myThemeInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "theme",
+				"userDefined": true,
+				"alias": "theme",
+				"meta": "@myThemeInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Let's take a shot at ",
+				"userDefined": false
+			},
+			{
+				"text": "theme",
+				"userDefined": true,
+				"alias": "theme",
+				"meta": "@myThemeInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "I want to try ",
+				"userDefined": false
+			},
+			{
+				"text": "theme",
+				"userDefined": true,
+				"alias": "theme",
+				"meta": "@myThemeInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "I want a quiz about ",
+				"userDefined": false
+			},
+			{
+				"text": "theme",
+				"userDefined": true,
+				"alias": "theme",
+				"meta": "@myThemeInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "A quiz about ",
+				"userDefined": false
+			},
+			{
+				"text": "theme",
+				"userDefined": true,
+				"alias": "theme",
+				"meta": "@myThemeInputType"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]
