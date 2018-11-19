@@ -4,7 +4,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+            "question": "Which English football club has the nickname The Foxes?",
             "correct_answer": "Leicester City",
             "incorrect_answers": [
                 "Northampton Town",
@@ -88,7 +88,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+            "question": "Who won the 2016 Formula 1 World Driver's Championship?",
             "correct_answer": "Nico Rosberg",
             "incorrect_answers": [
                 "Lewis Hamilton",
@@ -136,7 +136,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+            "question": "Which Formula One driver was nicknamed The Professor?",
             "correct_answer": "Alain Prost",
             "incorrect_answers": [
                 "Ayrton Senna",
@@ -244,7 +244,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+            "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
             "correct_answer": "Hammer",
             "incorrect_answers": [
                 "Wrench",
@@ -292,7 +292,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+            "question": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
             "correct_answer": "Pelle",
             "incorrect_answers": [
                 "Insigne",
@@ -328,7 +328,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+            "question": "What is the full name of the footballer Cristiano Ronaldo?",
             "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
             "incorrect_answers": [
                 "Cristiano Ronaldo los Santos Diego",
@@ -392,7 +392,7 @@
             "category": "Sports",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "In Rugby League, performing a &quot;40-20&quot; is punished by a free kick for the opposing team.",
+            "question": "In Rugby League, performing a 40-20 is punished by a free kick for the opposing team.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -486,7 +486,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+            "question": "What does the S stand for in the abbreviation SIM, as in SIM card? ",
             "correct_answer": "Subscriber",
             "incorrect_answers": [
                 "Single",
@@ -498,7 +498,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+            "question": "What word represents the letter T in the NATO phonetic alphabet?",
             "correct_answer": "Tango",
             "incorrect_answers": [
                 "Target",
@@ -549,7 +549,7 @@
             "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
             "correct_answer": "Spruce Goose",
             "incorrect_answers": [
-                "Noah&#039;s Ark",
+                "Noah's Ark",
                 "Fat Man",
                 "Trojan Horse"
             ]
@@ -582,7 +582,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+            "question": "This field is sometimes known as The Dismal Science.",
             "correct_answer": "Economics",
             "incorrect_answers": [
                 "Philosophy",
@@ -606,7 +606,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is a &quot;dakimakura&quot;?",
+            "question": "What is a dakimakura?",
             "correct_answer": "A body pillow",
             "incorrect_answers": [
                 "A Chinese meal, essentially composed of fish",
@@ -654,7 +654,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "In what year was McDonald&#039;s founded?",
+            "question": "In what year was McDonald's founded?",
             "correct_answer": "1955",
             "incorrect_answers": [
                 "1964",
@@ -666,19 +666,19 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What was Mountain Dew&#039;s original slogan?",
-            "correct_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+            "question": "What was Mountain Dew's original slogan?",
+            "correct_answer": "Yahoo! Mountain Dew... It'll tickle your innards!",
             "incorrect_answers": [
                 "Give Me A Dew",
                 "Do The Dew",
-                "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+                "Get that barefoot feeling drinkining Mountain Dew"
             ]
         },
         {
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+            "question": "Which slogan did the fast food company, McDonald's, use before their I'm Lovining It slogan?",
             "correct_answer": "We Love to See You Smile",
             "incorrect_answers": [
                 "Why Pay More!?",
@@ -690,7 +690,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which company&#039;s original slogan was &quot;Don&#039;t be evil&quot;?",
+            "question": "Which company's original slogan was Don't be evil?",
             "correct_answer": "Google",
             "incorrect_answers": [
                 "Apple",
@@ -702,7 +702,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is the romanized Korean word for &quot;heart&quot;?",
+            "question": "What is the romanized Korean word for heart?",
             "correct_answer": "Simjang",
             "incorrect_answers": [
                 "Aejeong",
@@ -714,7 +714,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+            "question": "What is the romanized Arabic word for moon?",
             "correct_answer": "Qamar",
             "incorrect_answers": [
                 "Najma",
@@ -726,7 +726,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+            "question": "Disney's Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
             "correct_answer": "Harry",
             "incorrect_answers": [
                 "Gus",
@@ -750,7 +750,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+            "question": "What does the Latin phrase Veni, vidi, vici translate into English?",
             "correct_answer": "I came, I saw, I conquered",
             "incorrect_answers": [
                 "See no evil, hear no evil, speak no evil",
@@ -762,7 +762,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+            "question": "In flight systems, what does the initialism TCAS stand for?",
             "correct_answer": "Traffic Collision Avoidance System",
             "incorrect_answers": [
                 "Traffic Communication Alert System",
@@ -912,7 +912,7 @@
             "category": "General Knowledge",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+            "question": "27 Club is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -942,7 +942,7 @@
             "category": "General Knowledge",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
+            "question": "The word news originates from the first letters of the 4 main directions on a compass (North, East, West, South).",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -962,7 +962,7 @@
             "category": "General Knowledge",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.",
+            "question": "The bikini is named after the Bikini Atoll, an island where the United States conducted tests on atomic bombs.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -982,7 +982,7 @@
             "category": "General Knowledge",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "The French word to travel is &quot;Travail&quot;",
+            "question": "The French word to travel is Travail",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1002,7 +1002,7 @@
             "category": "General Knowledge",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Fast food restaurant chains Carl&#039;s Jr. and Hardee&#039;s are owned by the same company.",
+            "question": "Fast food restaurant chains Carl's Jr. and Hardee's are owned by the same company.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -1012,7 +1012,7 @@
             "category": "General Knowledge",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "&quot;Santa Claus&quot; is a variety of melon.",
+            "question": "Santa Claus is a variety of melon.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -1052,7 +1052,7 @@
             "category": "Entertainment: Video Games",
             "type": "boolean",
             "difficulty": "hard",
-            "question": "All of these maps were in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; on its initial release: House, Clubhouse, Border, Consulate.",
+            "question": "All of these maps were in Tom Clancy's Rainbow Six Siege on its initial release: House, Clubhouse, Border, Consulate.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1082,7 +1082,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "hard",
-            "question": "The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.",
+            "question": "The weapon Clint Eastwood uses in Dirty Harry was a .44 Automag.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1102,7 +1102,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "hard",
-            "question": "Pete Townshend&#039;s solo album, &quot;White City: A Novel&quot;, is set in the metropolitan area of Chicago.",
+            "question": "Pete Townshend's solo album, White City: A Novel, is set in the metropolitan area of Chicago.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1134,7 +1134,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+            "question": "Who directed E.T. the Extra-Terrestrial (1982)?",
             "correct_answer": "Steven Spielberg",
             "incorrect_answers": [
                 "Stanley Kubrick",
@@ -1146,7 +1146,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?",
+            "question": "Which actress danced the twist with John Travolta in Pulp Fiction?",
             "correct_answer": "Uma Thurman",
             "incorrect_answers": [
                 "Kathy Griffin",
@@ -1158,7 +1158,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which movie contains the quote, &quot;Say hello to my little friend!&quot;?",
+            "question": "Which movie contains the quote, Say hello to my little friend!?",
             "correct_answer": "Scarface",
             "incorrect_answers": [
                 "Reservoir Dogs",
@@ -1182,7 +1182,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?",
+            "question": "What is the orange and white bot's name in Star Wars: The Force Awakens?",
             "correct_answer": "BB-8",
             "incorrect_answers": [
                 "BB-3",
@@ -1194,7 +1194,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In the movie &quot;Cast Away&quot; the main protagonist&#039;s best friend while on the island is named",
+            "question": "In the movie Cast Away the main protagonist's best friend while on the island is named",
             "correct_answer": "Wilson",
             "incorrect_answers": [
                 "Carson",
@@ -1206,7 +1206,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who in Pulp Fiction says &quot;No, they got the metric system there, they wouldn&#039;t know what the fuck a Quarter Pounder is.&quot;",
+            "question": "Who in Pulp Fiction says No, they got the metric system there, they wouldn't know what the fuck a Quarter Pounder is.",
             "correct_answer": "Vincent Vega",
             "incorrect_answers": [
                 "Jules Winnfield",
@@ -1218,8 +1218,8 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In the 2012 film, &quot;The Lorax&quot;, who is the antagonist?",
-            "correct_answer": "Aloysius O&#039;Hare",
+            "question": "In the 2012 film, The Lorax, who is the antagonist?",
+            "correct_answer": "Aloysius O'Hare",
             "incorrect_answers": [
                 "Ted Wiggins",
                 "The Once-Ler",
@@ -1243,18 +1243,18 @@
             "type": "multiple",
             "difficulty": "medium",
             "question": "Which of the following is NOT a quote from the 1942 film Casablanca? ",
-            "correct_answer": "&quot;Frankly, my dear, I don&#039;t give a damn.&quot;",
+            "correct_answer": "Frankly, my dear, I don't give a damn.",
             "incorrect_answers": [
-                "&quot;Here&#039;s lookin&#039; at you, kid.&quot;",
-                "&ldquo;Of all the gin joints, in all the towns, in all the world, she walks into mine&hellip;&rdquo;",
-                "&quot;Round up the usual suspects.&quot;"
+                "Here's looking at you, kid.",
+                "Of all the gin joints, in all the towns, in all the world, she walks into mine&hellip;",
+                "Round up the usual suspects."
             ]
         },
         {
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "In the film &quot;Interstellar&quot;, how long did they spend on Miller&#039;s planet?",
+            "question": "In the film Interstellar, how long did they spend on Miller's planet?",
             "correct_answer": "23 years, 4 months, and 8 days",
             "incorrect_answers": [
                 "15 years, 2 months, and 15 days",
@@ -1266,7 +1266,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "In which African country was the 2006 film &#039;Blood Diamond&#039; mostly set in?",
+            "question": "In which African country was the 2006 film Blood Diamonds mostly set in?",
             "correct_answer": "Sierra Leone",
             "incorrect_answers": [
                 "Liberia",
@@ -1278,7 +1278,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the name of the Artificial Intelligence system in the 1983 film, &quot;WarGames&quot;?",
+            "question": "What is the name of the Artificial Intelligence system in the 1983 film, WarGames?",
             "correct_answer": "War Operation Plan Response",
             "incorrect_answers": [
                 "Self Evolving Thought Helix",
@@ -1302,7 +1302,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What year did the James Cameron film &quot;Titanic&quot; come out in theaters?",
+            "question": "What year did the James Cameron film Titanic come out in theaters?",
             "correct_answer": "1997",
             "incorrect_answers": [
                 "1996",
@@ -1314,7 +1314,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which documentary film maker wrote and starred in the film &quot;My Scientology Movie&quot; which first debuted in 2015?",
+            "question": "Which documentary film maker wrote and starred in the film My Scientology Movie which first debuted in 2015?",
             "correct_answer": "Louis Theroux",
             "incorrect_answers": [
                 "Errol Morris",
@@ -1326,7 +1326,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the make and model of the tour vehicles in &quot;Jurassic Park&quot;?",
+            "question": "What is the make and model of the tour vehicles in Jurassic Park?",
             "correct_answer": "1992 Ford Explorer XLT",
             "incorrect_answers": [
                 "1992 Toyota Land Cruiser",
@@ -1338,7 +1338,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "In Finding Nemo, what was the name of Nemo&#039;s mom?",
+            "question": "In Finding Nemo, what was the name of Nemo's mom?",
             "correct_answer": "Coral",
             "incorrect_answers": [
                 "Sandy",
@@ -1350,7 +1350,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "In the Friday The 13th series, what is Jason&#039;s mother&#039;s first name?",
+            "question": "In the Friday The 13th series, what is Jason's mother's first name?",
             "correct_answer": "Pamela",
             "incorrect_answers": [
                 "Mary",
@@ -1374,7 +1374,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is the name of the assassin in the first &quot;Hellboy&quot; movie?",
+            "question": "What is the name of the assassin in the first Hellboy movie?",
             "correct_answer": "Karl Ruprecht Kroenen",
             "incorrect_answers": [
                 "Klaus Werner von Krupt",
@@ -1398,12 +1398,12 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
+            "question": "In 2012, which movie won every category in the 32nd Golden Raspberry Awards?",
             "correct_answer": "Jack and Jill",
             "incorrect_answers": [
                 "The Girl with the Dragon Tattoo",
                 "Thor",
-                "The King&#039;s Speech"
+                "The King's Speech"
             ]
         },
         {
@@ -1434,7 +1434,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?",
+            "question": "In what year does Jurassic World open in the Jurassic Park universe?",
             "correct_answer": "2005",
             "incorrect_answers": [
                 "2007",
@@ -1446,7 +1446,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In the &quot;Jurassic Park&quot; universe, what was the first dinosaur cloned by InGen in 1986?",
+            "question": "In the Jurassic Park universe, what was the first dinosaur cloned by InGen in 1986?",
             "correct_answer": "Velociraptor",
             "incorrect_answers": [
                 "Triceratops",
@@ -1470,7 +1470,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In Big Hero 6, what were Baymax&#039;s motions modeled after?",
+            "question": "In Big Hero 6, what were Baymax's motions modeled after?",
             "correct_answer": "Baby penguins",
             "incorrect_answers": [
                 "Baby monkeys",
@@ -1482,7 +1482,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "Han Solo&#039;s co-pilot and best friend, &quot;Chewbacca&quot;, is an Ewok.",
+            "question": "Han Solo's co-pilot and best friend, Chewbacca, is an Ewok.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1492,7 +1492,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "The movie &quot;The Nightmare before Christmas&quot; was all done with physical objects.",
+            "question": "The movie The Nightmare before Christmas was all done with physical objects.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -1512,7 +1512,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "Shaquille O&#039;Neal appeared in the 1997 film &quot;Space Jam&quot;.",
+            "question": "Shaquille O'Neal appeared in the 1997 film Space Jam.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1542,7 +1542,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "In the movie The Revenant, DiCaprio&#039;s character hunts down the killer of his son.",
+            "question": "In the movie The Revenant, DiCaprio's character hunts down the killer of his son.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -1552,7 +1552,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "&quot;Minions&quot; was released on the June 10th, 2015.",
+            "question": "Minions was released on the June 10th, 2015.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1572,7 +1572,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "&quot;Foodfight!&quot; earned less than $80,000 at box office.",
+            "question": "Foodfight! earned less than $80,000 at box office.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -1582,7 +1582,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "There aren&#039;t any live-action clones in &quot;Star Wars: Episode III - Revenge of the Sith&quot;.",
+            "question": "There aren't any live-action clones in Star Wars: Episode III - Revenge of the Sith.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -1602,7 +1602,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.",
+            "question": "The Xenomorph from the science fiction film Alien has acidic blood.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -1612,7 +1612,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Sean Connery wasn&#039;t in &quot;Indiana Jones and the Kingdom of the Crystal Skull&quot; because he found retirement too enjoyable.",
+            "question": "Sean Connery wasn't in Indiana Jones and the Kingdom of the Crystal Skull because he found retirement too enjoyable.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -1622,7 +1622,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Joan Cusack starred in the 2009 disaster movie, &quot;2012&quot;.",
+            "question": "Joan Cusack starred in the 2009 disaster movie, 2012.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1632,7 +1632,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "The movie &quot;Tron&quot; received an Oscar nomination for Best Visual Effects.",
+            "question": "The movie Tron received an Oscar nomination for Best Visual Effects.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1642,7 +1642,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "hard",
-            "question": "&quot;Cube&quot;, &quot;Cube 2: Hypercube&quot; and &quot;Cube Zero&quot; were directed by the same person.",
+            "question": "Cube, Cube 2: Hypercube and Cube Zero were directed by the same person.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1652,7 +1652,7 @@
             "category": "Entertainment: Film",
             "type": "boolean",
             "difficulty": "hard",
-            "question": "The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.",
+            "question": "The weapon Clint Eastwood uses in Dirty Harry was a .44 Automag.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -1662,7 +1662,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which Canadian reggae musician had a 1993 hit with the song &#039;Informer&#039;?",
+            "question": "Which Canadian reggae musician had a 1993 hit with the song Informer?",
             "correct_answer": "Snow",
             "incorrect_answers": [
                 "Rain",
@@ -1674,7 +1674,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who had a 1969 top 5 hit with the song,  &#039;A Boy Named Sue&#039;?",
+            "question": "Who had a 1969 top 5 hit with the song, A Boy Named Sue?",
             "correct_answer": "Johnny Cash",
             "incorrect_answers": [
                 "Bob Dylan",
@@ -1686,7 +1686,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which singer was featured in Jack &Uuml; (Skrillex &amp; Diplo)&#039;s 2015 song &#039;Where Are &Uuml; Now&#039;?",
+            "question": "Which singer was featured in Jack Ü (Skrillex & Diplo)'s 2015 song Where Are Ü Now?",
             "correct_answer": "Justin Bieber",
             "incorrect_answers": [
                 "Selena Gomez",
@@ -1698,7 +1698,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The Red Hot Chili Pepper song &quot;Give It Away&quot; is from what album?",
+            "question": "The Red Hot Chili Pepper song Give It Away is from what album?",
             "correct_answer": "Blood Sugar Sex Magik",
             "incorrect_answers": [
                 "One Hot Minute",
@@ -1722,7 +1722,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Finish these lyrics from the 2016 song &quot;Panda&quot; by Desiigner: &quot;I got broads in _______&quot;.",
+            "question": "Finish these lyrics from the 2016 song Panda by Desiigner: I got broads in _______.",
             "correct_answer": "Atlanta",
             "incorrect_answers": [
                 "Savannah",
@@ -1734,7 +1734,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was the name of singer Frank Ocean&#039;s second studio album, which was released on August 20, 2016?",
+            "question": "What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?",
             "correct_answer": "Blonde",
             "incorrect_answers": [
                 "Brunette",
@@ -1758,7 +1758,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who was featured in the song &quot;Words&quot; by Feint? ",
+            "question": "Who was featured in the song Words by Feint? ",
             "correct_answer": "Laura Brehm",
             "incorrect_answers": [
                 "Anna Yvette ",
@@ -1782,7 +1782,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which Elton John hit starts with the line &quot;When are you gonna come down&quot;?",
+            "question": "Which Elton John hit starts with the line When are you gonna come down?",
             "correct_answer": "Goodbye Yellow Brick Road",
             "incorrect_answers": [
                 "Rocket Man",
@@ -1794,7 +1794,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Saul Hudson (Slash) of the band Guns N&#039; Roses is known for playing what type of guitar?",
+            "question": "Saul Hudson (Slash) of the band Guns N' Roses is known for playing what type of guitar?",
             "correct_answer": "Les Paul Standard",
             "incorrect_answers": [
                 "Fender Stratocaster",
@@ -1842,7 +1842,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which country does the electronic music duo &quot;The Knife&quot; originate from?",
+            "question": "Which country does the electronic music duo The Knife originate from?",
             "correct_answer": "Sweden",
             "incorrect_answers": [
                 "Finland",
@@ -1854,7 +1854,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What year was Red Hot Chill Pepper&#039;s album &quot;Californication&quot; released?",
+            "question": "What year was Red Hot Chill Pepper's album Californication released?",
             "correct_answer": "1999",
             "incorrect_answers": [
                 "1997",
@@ -1866,7 +1866,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "In what film was the Michael Jackson song &quot;Will You Be There&quot; featured?",
+            "question": "In what film was the Michael Jackson song Will You Be There featured?",
             "correct_answer": "Free Willy",
             "incorrect_answers": [
                 "Sleepless in Seattle",
@@ -1878,7 +1878,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is rapper Drake&#039;s real name?",
+            "question": "What is rapper Drake's real name?",
             "correct_answer": "Aubrey Graham",
             "incorrect_answers": [
                 "Shaun Carter",
@@ -1890,11 +1890,11 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "The Who&#039;s eponymous line, &quot;Teenage Wasteland&quot;, appears in which of their songs?",
-            "correct_answer": "Baba O&#039; Riley",
+            "question": "The Who's eponymous line, Teenage Wasteland, appears in which of their songs?",
+            "correct_answer": "Baba O' Riley",
             "incorrect_answers": [
                 "The Seeker",
-                "Won&#039;t Get Fooled Again",
+                "Won't Get Fooled Again",
                 "Pinball Wizard"
             ]
         },
@@ -1914,7 +1914,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Which member of the English band &quot;The xx&quot; released their solo album &quot;In Colour&quot; in 2015?",
+            "question": "Which member of the English band The xx released their solo album In Colour in 2015?",
             "correct_answer": "Jamie xx",
             "incorrect_answers": [
                 "Romy Madley Croft",
@@ -1938,7 +1938,7 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume &amp; Chet Faker?",
+            "question": "Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume & Chet Faker?",
             "correct_answer": "Left Alone",
             "incorrect_answers": [
                 "What About Us",
@@ -2032,7 +2032,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "The music video to The Buggle&#039;s &quot;Video Killed the Radio Star&quot; was the first music video to broadcast on MTV.",
+            "question": "The music video to The Buggle's Video Killed the Radio Star was the first music video to broadcast on MTV.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2062,7 +2062,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "The alternative rock band, They Might Be Giants, released their album &#039;Flood&#039; in 1990. ",
+            "question": "The alternative rock band, They Might Be Giants, released their album Flood in 1990. ",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2072,7 +2072,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "The song &quot;Stronger Than You&quot; is a single by Estelle, who played Garnet in Steven Universe.",
+            "question": "The song Stronger Than You is a single by Estelle, who played Garnet in Steven Universe.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2092,7 +2092,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "Stevie Wonder&#039;s real name is Stevland Hardaway Morris.",
+            "question": "Stevie Wonder's real name is Stevland Hardaway Morris.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2102,7 +2102,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "Scatman John&#039;s real name was John Paul Larkin.",
+            "question": "Scatman John's real name was John Paul Larkin.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2112,7 +2112,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "Michael Jackson wrote The Simpsons song &quot;Do the Bartman&quot;.",
+            "question": "Michael Jackson wrote The Simpsons song Do the Bartman.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -2122,7 +2122,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Arcade Fire&#039;s &#039;The Suburbs&#039; won the Album of the Year award in the 2011 Grammys.",
+            "question": "Arcade Fire's The Suburbs won the Album of the Year award in the 2011 Grammys.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2132,7 +2132,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Soulja Boy&#039;s &#039;Crank That&#039; won a Grammy for Best Rap Song in 2007.",
+            "question": "Soulja Boy's Crank That won a Grammy for Best Rap Song in 2007.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -2152,7 +2152,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "The country song  &ldquo;A Boy Named Sue&rdquo; was written by Shel Silverstein.",
+            "question": "The country song  A Boy Named Sue was written by Shel Silverstein.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2172,7 +2172,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "&quot;Twenty One Pilots&quot; made the song &quot;The Motion&quot; featuring Sampha.",
+            "question": "Twenty One Pilots made the song The Motion featuring Sampha.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -2182,7 +2182,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his &quot;Mothership&quot; set piece for one night only.",
+            "question": "For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his Mothership set piece for one night only.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2202,7 +2202,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Pink Guy&#039;s debut album was &quot;Pink Season&quot;.",
+            "question": "Pink Guy's debut album was Pink Season.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -2212,7 +2212,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Musical artist, Future, collaborated with Kendrick Lamar for the song: &quot;Mask Off&quot;.",
+            "question": "Musical artist, Future, collaborated with Kendrick Lamar for the song: Mask Off.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2222,7 +2222,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "hard",
-            "question": "The song &quot;Mystery Train&quot; was released by artist &quot;Little Junior&#039;s Blue Flames&quot; in 1953.",
+            "question": "The song Mystery Train was released by artist Little Junior's Blue Flames in 1953.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2242,7 +2242,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "hard",
-            "question": "Pete Townshend&#039;s solo album, &quot;White City: A Novel&quot;, is set in the metropolitan area of Chicago.",
+            "question": "Pete Townshend's solo album, White City: A Novel, is set in the metropolitan area of Chicago.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -2252,7 +2252,7 @@
             "category": "Entertainment: Music",
             "type": "boolean",
             "difficulty": "hard",
-            "question": "The song Scatman&#039;s World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).",
+            "question": "The song Scatman's World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2310,7 +2310,7 @@
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The derisive acronym &quot;PIIGS&quot; refers to which of the following European countries and their economic statuses?",
+            "question": "The derisive acronym PIIGS refers to which of the following European countries and their economic statuses?",
             "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
             "incorrect_answers": [
                 "Poland, Iceland, Italy, Greece, Serbia",
@@ -2346,7 +2346,7 @@
             "category": "Geography",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of these African countries list &quot;Spanish&quot; as an official language?",
+            "question": "Which of these African countries list Spanish as an official language?",
             "correct_answer": "Equatorial Guinea",
             "incorrect_answers": [
                 "Guinea",
@@ -2454,7 +2454,7 @@
             "category": "Geography",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Where is Earth&#039;s South Magnetic Pole?",
+            "question": "Where is Earth's South Magnetic Pole?",
             "correct_answer": "The North Pole",
             "incorrect_answers": [
                 "The South Pole",
@@ -2490,7 +2490,7 @@
             "category": "Geography",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Colchester Overpass, otherwise known as &quot;Bunny Man Bridge&quot;, is located where?",
+            "question": "Colchester Overpass, otherwise known as Bunny Man Bridge, is located where?",
             "correct_answer": "Fairfax County, Virginia",
             "incorrect_answers": [
                 "Medford, Oregon",
@@ -2562,7 +2562,7 @@
             "category": "Geography",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?",
+            "question": "What North American tourist attraction is served by the Maid of the Mist tour company?",
             "correct_answer": "Niagara Falls",
             "incorrect_answers": [
                 "Whistler, British Columbia",
@@ -2574,7 +2574,7 @@
             "category": "Geography",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is Canada&#039;s largest island?",
+            "question": "What is Canada's largest island?",
             "correct_answer": "Baffin Island",
             "incorrect_answers": [
                 "Prince Edward Island",
@@ -2632,7 +2632,7 @@
             "category": "Geography",
             "type": "boolean",
             "difficulty": "easy",
-            "question": "A group of islands is called an &#039;archipelago&#039;.",
+            "question": "A group of islands is called an archipelago.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2752,7 +2752,7 @@
             "category": "Geography",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "There exists an island named &quot;Java&quot;.",
+            "question": "There exists an island named Java.",
             "correct_answer": "True",
             "incorrect_answers": [
                 "False"
@@ -2762,7 +2762,7 @@
             "category": "Geography",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "&quot;Mongolia&quot; was a part of the now non-existent U.S.S.R.",
+            "question": "Mongolia was a part of the now non-existent U.S.S.R.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -2902,7 +2902,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+            "question": "Which gas forms about 78% of the Earth's atmosphere?",
             "correct_answer": "Nitrogen",
             "incorrect_answers": [
                 "Oxygen",
@@ -3047,11 +3047,11 @@
             "type": "multiple",
             "difficulty": "medium",
             "question": "The Sun consists of mostly which two elements?",
-            "correct_answer": "Hydrogen &amp; Helium",
+            "correct_answer": "Hydrogen & Helium",
             "incorrect_answers": [
-                "Hydrogen &amp; Nitrogen",
-                "Carbon &amp; Nitrogen",
-                "Carbon &amp; Helium"
+                "Hydrogen & Nitrogen",
+                "Carbon & Nitrogen",
+                "Carbon & Helium"
             ]
         },
         {
@@ -3106,7 +3106,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "&quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?",
+            "question": "The Big Bang Theory was first theorized by a priest of what religious ideology?",
             "correct_answer": "Catholic",
             "incorrect_answers": [
                 "Christian",
@@ -3130,7 +3130,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What does the term &quot;isolation&quot; refer to in microbiology?",
+            "question": "What does the term isolation refer to in microbiology?",
             "correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
             "incorrect_answers": [
                 "A lack of nutrition in microenviroments",
@@ -3302,7 +3302,7 @@
             "category": "Science & Nature",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "The &quot;Gympie Stinger&quot; is the deadliest plant in the world.",
+            "question": "The Gympie Stinger is the deadliest plant in the world.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -3362,7 +3362,7 @@
             "category": "Science & Nature",
             "type": "boolean",
             "difficulty": "medium",
-            "question": "Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body&#039;s inertia.",
+            "question": "Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body's inertia.",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
@@ -3382,7 +3382,7 @@
             "category": "Science & Nature",
             "type": "boolean",
             "difficulty": "hard",
-            "question": "You can calculate Induced Voltage using: &epsilon; =-N * (d&Phi;B)/(d)",
+            "question": "You can calculate Induced Voltage using: epsilon; =-N * (d&Phi;B)/(d)",
             "correct_answer": "False",
             "incorrect_answers": [
                 "True"
