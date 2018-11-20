@@ -1,5 +1,5 @@
 {
-    "Sports_multiple_easy": [
+    "sports_multiple_easy": [
         {
             "question": "Which English football club has the nickname The Foxes?",
             "correct_answer": "Leicester City",
@@ -91,7 +91,7 @@
             ]
         }
     ],
-    "Sports_multiple_medium": [
+    "sports_multiple_medium": [
         {
             "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
             "correct_answer": "Duck",
@@ -183,7 +183,7 @@
             ]
         }
     ],
-    "Sports_multiple_hard": [
+    "sports_multiple_hard": [
         {
             "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
             "correct_answer": "Hammer",
@@ -266,7 +266,7 @@
             ]
         }
     ],
-    "Sports_boolean_easy": [
+    "sports_boolean_easy": [
         {
             "question": "Manchester United won the 2013-14 English Premier League.",
             "correct_answer": "False",
@@ -303,7 +303,7 @@
             ]
         }
     ],
-    "Sports_boolean_medium": [
+    "sports_boolean_medium": [
         {
             "question": "Soccer player Cristiano Ronaldo opened a museum dedicated to himself.",
             "correct_answer": "True",
@@ -347,7 +347,7 @@
             ]
         }
     ],
-    "General Knowledge_multiple_easy": [
+    "general knowledge_multiple_easy": [
         {
             "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
             "correct_answer": "Demolition",
@@ -439,7 +439,7 @@
             ]
         }
     ],
-    "General Knowledge_multiple_medium": [
+    "general knowledge_multiple_medium": [
         {
             "question": "This field is sometimes known as The Dismal Science.",
             "correct_answer": "Economics",
@@ -531,7 +531,7 @@
             ]
         }
     ],
-    "General Knowledge_multiple_hard": [
+    "general knowledge_multiple_hard": [
         {
             "question": "What is the romanized Korean word for heart?",
             "correct_answer": "Simjang",
@@ -623,7 +623,7 @@
             ]
         }
     ],
-    "General Knowledge_boolean_easy": [
+    "general knowledge_boolean_easy": [
         {
             "question": "Gumbo is a stew that originated in Louisiana.",
             "correct_answer": "True",
@@ -695,7 +695,7 @@
             ]
         }
     ],
-    "General Knowledge_boolean_medium": [
+    "general knowledge_boolean_medium": [
         {
             "question": "The US emergency hotline is 911 because of the September 11th terrorist attacks.",
             "correct_answer": "False",
@@ -767,39 +767,7 @@
             ]
         }
     ],
-    "History_boolean_hard": [
-        {
-            "question": "The Kingdom of Prussia briefly held land in Estonia.",
-            "correct_answer": "False",
-            "incorrect_answers": [
-                "True"
-            ]
-        },
-        {
-            "question": "The USS Missouri (BB-63) last served in the Korean War.",
-            "correct_answer": "False",
-            "incorrect_answers": [
-                "True"
-            ]
-        }
-    ],
-    "Entertainment: Video Games_boolean_hard": [
-        {
-            "question": "Unturned originally started as a Roblox game.",
-            "correct_answer": "True",
-            "incorrect_answers": [
-                "False"
-            ]
-        },
-        {
-            "question": "All of these maps were in Tom Clancy's Rainbow Six Siege on its initial release: House, Clubhouse, Border, Consulate.",
-            "correct_answer": "False",
-            "incorrect_answers": [
-                "True"
-            ]
-        }
-    ],
-    "Entertainment: Music_boolean_hard": [
+    "music_boolean_hard": [
         {
             "question": "The band STRFKR was also briefly known as Pyramiddd.",
             "correct_answer": "True",
@@ -843,16 +811,7 @@
             ]
         }
     ],
-    "Entertainment: Board Games_boolean_hard": [
-        {
-            "question": "The board game Go has more possible legal positions than the number of atoms in the visible universe.",
-            "correct_answer": "True",
-            "incorrect_answers": [
-                "False"
-            ]
-        }
-    ],
-    "Entertainment: Film_boolean_hard": [
+    "film_boolean_hard": [
         {
             "question": "The weapon Clint Eastwood uses in Dirty Harry was a .44 Automag.",
             "correct_answer": "False",
@@ -875,16 +834,7 @@
             ]
         }
     ],
-    "Politics_boolean_hard": [
-        {
-            "question": "George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",
-            "correct_answer": "False",
-            "incorrect_answers": [
-                "True"
-            ]
-        }
-    ],
-    "Geography_boolean_hard": [
+    "geography_boolean_hard": [
         {
             "question": "The two largest ethnic groups of Belgium are Flemish and Walloon. ",
             "correct_answer": "True",
@@ -907,7 +857,7 @@
             ]
         }
     ],
-    "Entertainment: Film_multiple_easy": [
+    "film_multiple_easy": [
         {
             "question": "Which of the following movies was not based on a novel by Stephen King? ",
             "correct_answer": "The Thing",
@@ -999,7 +949,7 @@
             ]
         }
     ],
-    "Entertainment: Film_multiple_medium": [
+    "film_multiple_medium": [
         {
             "question": "Which of the following is NOT a quote from the 1942 film Casablanca? ",
             "correct_answer": "Frankly, my dear, I don't give a damn.",
@@ -1091,7 +1041,7 @@
             ]
         }
     ],
-    "Entertainment: Film_multiple_hard": [
+    "film_multiple_hard": [
         {
             "question": "What was the last Marx Brothers film to feature Zeppo?",
             "correct_answer": "Duck Soup",
@@ -1183,7 +1133,7 @@
             ]
         }
     ],
-    "Entertainment: Film_boolean_easy": [
+    "film_boolean_easy": [
         {
             "question": "Han Solo's co-pilot and best friend, Chewbacca, is an Ewok.",
             "correct_answer": "False",
@@ -1255,7 +1205,7 @@
             ]
         }
     ],
-    "Entertainment: Film_boolean_medium": [
+    "film_boolean_medium": [
         {
             "question": "There aren't any live-action clones in Star Wars: Episode III - Revenge of the Sith.",
             "correct_answer": "True",
@@ -1299,7 +1249,7 @@
             ]
         }
     ],
-    "Entertainment: Music_multiple_easy": [
+    "music_multiple_easy": [
         {
             "question": "Which Canadian reggae musician had a 1993 hit with the song Informer?",
             "correct_answer": "Snow",
@@ -1391,7 +1341,7 @@
             ]
         }
     ],
-    "Entertainment: Music_multiple_medium": [
+    "music_multiple_medium": [
         {
             "question": "Which Elton John hit starts with the line When are you gonna come down?",
             "correct_answer": "Goodbye Yellow Brick Road",
@@ -1483,7 +1433,7 @@
             ]
         }
     ],
-    "Entertainment: Music_multiple_hard": [
+    "music_multiple_hard": [
         {
             "question": "Who was the original drummer for The Beatles?",
             "correct_answer": "Tommy Moore",
@@ -1575,7 +1525,7 @@
             ]
         }
     ],
-    "Entertainment: Music_boolean_easy": [
+    "music_boolean_easy": [
         {
             "question": "The music group Daft Punk got their name from a negative review they recieved.",
             "correct_answer": "True",
@@ -1647,7 +1597,7 @@
             ]
         }
     ],
-    "Entertainment: Music_boolean_medium": [
+    "music_boolean_medium": [
         {
             "question": "Arcade Fire's The Suburbs won the Album of the Year award in the 2011 Grammys.",
             "correct_answer": "True",
@@ -1719,7 +1669,7 @@
             ]
         }
     ],
-    "Geography_multiple_easy": [
+    "geography_multiple_easy": [
         {
             "question": "Which city is the capital of the United States of America?",
             "correct_answer": "Washington D.C",
@@ -1811,7 +1761,7 @@
             ]
         }
     ],
-    "Geography_multiple_medium": [
+    "geography_multiple_medium": [
         {
             "question": "What is the capital of Chile?",
             "correct_answer": "Santiago",
@@ -1903,7 +1853,7 @@
             ]
         }
     ],
-    "Geography_multiple_hard": [
+    "geography_multiple_hard": [
         {
             "question": "What country is not a part of Scandinavia?",
             "correct_answer": "Finland",
@@ -1995,7 +1945,7 @@
             ]
         }
     ],
-    "Geography_boolean_easy": [
+    "geography_boolean_easy": [
         {
             "question": "Greenland is almost as big as Africa.",
             "correct_answer": "False",
@@ -2067,7 +2017,7 @@
             ]
         }
     ],
-    "Geography_boolean_medium": [
+    "geography_boolean_medium": [
         {
             "question": "The flag of South Africa features 7 colours.",
             "correct_answer": "False",
@@ -2139,7 +2089,7 @@
             ]
         }
     ],
-    "Science & Nature_multiple_easy": [
+    "science and nature_multiple_easy": [
         {
             "question": "Which Apollo mission was the first one to land on the Moon?",
             "correct_answer": "Apollo 11",
@@ -2231,7 +2181,7 @@
             ]
         }
     ],
-    "Science & Nature_multiple_medium": [
+    "science and natrue_multiple_medium": [
         {
             "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
             "correct_answer": "212",
@@ -2323,7 +2273,7 @@
             ]
         }
     ],
-    "Science & Nature_multiple_hard": [
+    "science and nature_multiple_hard": [
         {
             "question": "Which horizon in a soil profile consists of bedrock?",
             "correct_answer": "R",
@@ -2415,7 +2365,7 @@
             ]
         }
     ],
-    "Science & Nature_boolean_easy": [
+    "science and nature_boolean_easy": [
         {
             "question": "Igneous rocks are formed by excessive heat and pressure.",
             "correct_answer": "False",
@@ -2473,7 +2423,7 @@
             ]
         }
     ],
-    "Science & Nature_boolean_medium": [
+    "science and nature_boolean_medium": [
         {
             "question": "Chickens can live without a head.",
             "correct_answer": "True",
@@ -2545,7 +2495,7 @@
             ]
         }
     ],
-    "Science & Nature_boolean_hard": [
+    "science and nature_boolean_hard": [
         {
             "question": "You can calculate Induced Voltage using: epsilon; =-N * (d&Phi;B)/(d)",
             "correct_answer": "False",

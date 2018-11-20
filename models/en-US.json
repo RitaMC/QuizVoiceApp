@@ -4,17 +4,20 @@
 		{
 			"name": "ScoreIntent",
 			"phrases": [
-				"Give me my {rank}",
-				"Tell me my {rank}",
-				"I want to know my {rank}",
+				"I want to know my score",
+				"I want to know my level",
+				"I want to know my rank",
+				"Am i still an apprentice",
 				"Am i a master now",
-				"{rank}"
-            ],
-            "inputs":[
-                {
-                    "name": "rank",
-                    "type": "myScoreInputType"
-                }
+				"Tell me my score",
+				"Tell me my level",
+				"Tell me my rank",
+				"Give me my score",
+				"Give me my level",
+				"Give me my rank",
+				"Rank",
+				"Level",
+				"Score"
             ]
 		},
 		{
@@ -47,6 +50,21 @@
                     "type": "myThemeInputType"
                 }
             ]
+		},
+		{
+			"name": "MoreThemesIntent",
+			"phrases": [
+				"I want more themes",
+				"I want more",
+				"More themes",
+				"More",
+				"Give me the rest of the themes",
+				"What are the rest of the themes",
+				"Give me other themes",
+				"I want other themes",
+				"Others",
+				"Other themes"
+			]
 		},
 		{
 			"name": "DifficultyIntent",
@@ -136,18 +154,6 @@
 		}
 	],
 	"inputTypes": [
-		{
-			"name": "myScoreInputType",
-			"values": [
-				{
-					"value": "Rank",
-					"synonyms": [
-						"Score",
-						"Level"
-					]
-				}
-			]
-		},
 		{
 			"name": "myThemeInputType",
 			"values": [

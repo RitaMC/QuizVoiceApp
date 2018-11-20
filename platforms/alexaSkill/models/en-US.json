@@ -4,21 +4,6 @@
 			"invocationName": "master quiz",
 			"types": [
 				{
-					"name": "myScoreInputType",
-					"values": [
-						{
-							"id": null,
-							"name": {
-								"value": "Rank",
-								"synonyms": [
-									"Score",
-									"Level"
-								]
-							}
-						}
-					]
-				},
-				{
 					"name": "myThemeInputType",
 					"values": [
 						{
@@ -284,17 +269,20 @@
 				{
 					"name": "ScoreIntent",
 					"samples": [
-						"Give me my {rank}",
-						"Tell me my {rank}",
-						"I want to know my {rank}",
+						"I want to know my score",
+						"I want to know my level",
+						"I want to know my rank",
+						"Am i still an apprentice",
 						"Am i a master now",
-						"{rank}"
-					],
-					"slots": [
-						{
-							"name": "rank",
-							"type": "myScoreInputType"
-						}
+						"Tell me my score",
+						"Tell me my level",
+						"Tell me my rank",
+						"Give me my score",
+						"Give me my level",
+						"Give me my rank",
+						"Rank",
+						"Level",
+						"Score"
 					]
 				},
 				{
@@ -326,6 +314,21 @@
 							"name": "theme",
 							"type": "myThemeInputType"
 						}
+					]
+				},
+				{
+					"name": "MoreThemesIntent",
+					"samples": [
+						"I want more themes",
+						"I want more",
+						"More themes",
+						"More",
+						"Give me the rest of the themes",
+						"What are the rest of the themes",
+						"Give me other themes",
+						"I want other themes",
+						"Others",
+						"Other themes"
 					]
 				},
 				{
