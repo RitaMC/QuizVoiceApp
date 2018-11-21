@@ -61,16 +61,16 @@ app.setHandler({
         this.user().data.rank = "Apprentice";
         this.addSessionAttribute("device",this.getType());
 
-        this.ask('Welcome to Master Quiz! Ready to test your knowledge and have a good time? If so ask me for a quiz or your rank and let’s begin.');
+        this.ask('Welcome to Master Quiz! Ready to test your knowledge and have a good time? If so ask me for a quiz or your rank and let’s begin.',"Do you want to do a quiz or know your rank?");
     },
 
     'QuizIntent': function() {
         var dev = this.getSessionAttribute("device");
 
         if(dev == "GoogleAction"){
-            this.ask("Let’s begin your journey. I have quizzes about Science and Nature, Sports, Film and General Knowledge. Which one do you want?");
+            this.ask("Let’s begin your journey. I have quizzes about Science and Nature, Sports, Film and General Knowledge. Which one do you want?"," Which theme do you want?");
         }else{
-            this.ask("Let’s begin your journey. I have quizzes about Science and Nature, Sports and Geography. Want try one of this or want more themes?");
+            this.ask("Let’s begin your journey. I have quizzes about Science and Nature, Sports and Geography. Want try one of this or want more themes?","One of this themes or want to see the rest?");
         }
     },
 
@@ -78,19 +78,19 @@ app.setHandler({
         var theme = this.getInput("theme").value;
         this.addSessionAttribute("theme",theme.toLowerCase());
 
-        this.ask("Which level of difficulty do you want easy, medium or hard?");
+        this.ask("Which level of difficulty do you want easy, medium or hard?","Easy, medium or hard?");
 
     },
 
     'MoreThemesIntent': function(){
-        this.ask("The rest of the themes are general knowledge, music and film. Which one do you want?");
+        this.ask("The rest of the themes are general knowledge, music and film. Which one do you want?","Which theme do you choose?");
     },
 
     'DifficultyIntent': function(){
         var level = this.getInput("difficulty").value;
         this.addSessionAttribute("level",level.toLowerCase());
 
-        this.ask("Do you want true or false or multiple choice questions?");
+        this.ask("Do you want true or false or multiple choice questions?","True of false or multiple choice questions?");
     },
 
     'TypeofQuestionIntent': function(){
@@ -147,19 +147,19 @@ app.setHandler({
 
             this.addSessionAttribute("current_question",first_question);
             
-            this.followUpState('QuizState').ask("Get yourself ready: "+first_question);
+            this.followUpState('QuizState').ask("Get yourself ready: "+first_question,first_question);
         },
 
         'RepeatIntent': function(){
-            this.ask(this.getSessionAttribute("current_question"));
+            this.ask(this.getSessionAttribute("current_question"),this.getSessionAttribute("current_question"));
         },
 
         'StopIntent': function(){
-            this.ask("Do you want to pass this question or try another quiz?");
+            this.ask("Do you want to pass this question or try another quiz?","Want the next question or ask for another quiz?");
         },
     
         'CancelIntent': function(){
-            this.ask("Do you want to pass this question or try another quiz?");
+            this.ask("Do you want to pass this question or try another quiz?","Want the next question or ask for another quiz?");
         },
 
         'YesIntent': function(){
@@ -167,7 +167,7 @@ app.setHandler({
         },
 
         'NoIntent': function(){
-            this.ask("Okay, let's design another quiz! I have quizzes about Science and Nature, Sports and Geography. Want try one of them or want to know more?");
+            this.ask("Okay, let's design another quiz! I have quizzes about Science and Nature, Sports and Geography. Want try one of them or want to know more?","One of this themes or want to see the rest?");
         }
            
     },
@@ -183,7 +183,7 @@ app.setHandler({
         },
 
         'RepeatIntent': function(){
-            this.ask(this.getSessionAttribute("current_question"));
+            this.ask(this.getSessionAttribute("current_question"),this.getSessionAttribute("current_question"));
         },
     },
 
@@ -192,15 +192,15 @@ app.setHandler({
 
         //Tell the user rank
         if(data.points >= 0 && data.points < 50){
-            this.ask("You are an "+ rankings[0]+" but with our joined forces and some quizzes you will be a master in no time.");
+            this.ask("You are an "+ rankings[0]+" but with our joined forces and some quizzes you will be a master in no time.","You are an "+rankings[0]);
         }else if(data.points >= 50 && data.points < 100){
-            this.ask("You are a "+rankings[1]+" you are not quite there yet but keep quizzing and the master rank will be yours.");
+            this.ask("You are a "+rankings[1]+" you are not quite there yet but keep quizzing and the master rank will be yours.","You are a "+rankings[1]);
         }else if(data.points >= 100 && data.points < 150){
-            this.ask("You are already an "+rankings[2]+" at performing quizzes with success.");
+            this.ask("You are already an "+rankings[2]+" at performing quizzes with success.","You are already an "+rankings[2]);
         }else if(data.points >= 150 && data.points < 300){
-            this.ask("Congratulations you are a "+rankings[3]+". Keep going, you are almost a Master");
+            this.ask("Congratulations you are a "+rankings[3]+". Keep going, you are almost a Master","Congratulations you are a "+rankings[3]);
         }else if(data.points >= 300){
-            this.ask("Make your way for the "+rankings[4] +" but you cannot rest now you still have many quizzes to try and slay.");
+            this.ask("Make your way for the "+rankings[4] +" but you cannot rest now you still have many quizzes to try and slay.","Make your way for the "+rankings[4]);
         }
         
     },
@@ -214,7 +214,7 @@ app.setHandler({
     },
 
     'HelpIntent': function(){
-        this.ask("I am here to help you on your journey to Master of Knowledge. You can ask me for a quiz or your current rank. The ranking goes from Novice to Master and for each correct answer you get 5 points.");
+        this.ask("I am here to help you on your journey to Master of Knowledge. You can ask me for a quiz or your current rank. The ranking goes from Apprentice to Master and for each correct answer you get 5 points.","Wanna do a quiz or know your rank?");
     },
 
     'Unhandled': function(){
@@ -267,13 +267,13 @@ function checkUserAnswer(userDoesntKnow){
         var howManyCorrect = qts_score/5;
 
         if(howManyCorrect == NUM_MAX_QUESTIONS){
-            this.ask("You got "+howManyCorrect+" out of 5 questions correct! Excellent work, some more quizzes and you will be a master in no time. Want to keep doing quizzes or check your rank?");
+            this.ask("You got "+howManyCorrect+" out of 5 questions correct! Excellent work, some more quizzes and you will be a master in no time. Want to keep doing quizzes or check your rank?"," Want to keep doing quizzes or check your rank?");
             return;
         }else if(howManyCorrect >= 3 && howManyCorrect < NUM_MAX_QUESTIONS){
-            this.ask("You got "+howManyCorrect+" out of 5 questions correct! Keep learning and doing quizzes and you will achieve the perfect score. Want to keep doing quizzes or check your rank?");
+            this.ask("You got "+howManyCorrect+" out of 5 questions correct! Keep learning and doing quizzes and you will achieve the perfect score. Want to keep doing quizzes or check your rank?"," Want to keep doing quizzes or check your rank?");
             return;
         }else{
-            this.ask("You got "+howManyCorrect+" out of 5 questions correct! Don't feel bad just keep learning and you will soon have the perfect score. Want to keep doing quizzes or check your rank?");
+            this.ask("You got "+howManyCorrect+" out of 5 questions correct! Don't feel bad just keep learning and you will soon have the perfect score. Want to keep doing quizzes or check your rank?"," Want to keep doing quizzes or check your rank?");
             return;
         }
         
@@ -300,7 +300,7 @@ function checkUserAnswer(userDoesntKnow){
     this.setSessionAttribute("index",qts_position);
     this.setSessionAttribute("current_session",next_question);
 
-    this.followUpState('QuizState').ask(alexaSays+". Next question: "+next_question);
+    this.followUpState('QuizState').ask(alexaSays+". Next question: "+next_question,next_question);
 }
 
 module.exports.app = app;
