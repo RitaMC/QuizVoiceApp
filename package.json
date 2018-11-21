@@ -4,6 +4,7 @@
   "description": "A sample voice app that works with the Jovo framework",
   "main": "index.js",
   "dependencies": {
+    "aws-sdk": "^2.359.0",
     "jovo-framework": "^1.4.16"
   },
   "devDependencies": {},

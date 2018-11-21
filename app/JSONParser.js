@@ -1,24 +1,24 @@
 const fs = require('fs');
+const file = require('./jsonfiles/question.json');
 
 function parser(){
-    fs.readFile('./trivia_questions.json','utf8',(err,fc) => {
-        if(err){
-            console.log('Error: '+ err.message);
-            return
-        }
-        
-       const data = JSON.parse(fc);
-       var res = data.results;
+       const keys = Object.keys(file);
        var answers = [];
+       
+       for(var i in keys){
+            var key = keys[i];
+            var res = file[key];
 
-       for(var i in res){
-            answers.push(res[i].correct_answer);
-            answers.concat(res[i].incorrect_answers);
+            for(var j  in res){
+                if(!answers.includes(res[j].correct_answer)){
+                    answers.push(res[j].correct_answer);
+                }
+                answers = answers.concat(res[j].incorrect_answers);
+            }
        }
-
+       answers = answers.filter((v, i, a) => a.indexOf(v) === i);
        fs.writeFile("listofanswers.txt",JSON.stringify(answers,null,4),() => {});
 
-    })
 }
 
 parser();

@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 function questionMaker(){
-    fs.readFile('./trivia_questions.json','utf8',(err,fc) => {
+    fs.readFile('./jsonfiles/trivia_questions.json','utf8',(err,fc) => {
         if(err){
             console.log('Error: '+ err.message);
             return

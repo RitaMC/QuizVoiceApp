@@ -125,13 +125,8 @@
 			]
 		},
 		{
-			"name": "AnswerIntent",
+			"name": "DontKnowIntent",
 			"phrases": [
-				"The answer is {answer}",
-				"My answer is {answer}",
-				"{answer}",
-				"{answer} is my answer",
-				"is it {answer}",
 				"Next",
 				"Pass",
 				"Another question",
@@ -144,6 +139,16 @@
 				"i don't know that one",
 				"i don't know this question",
 				"i don't know that"
+			]	
+		},
+		{
+			"name": "AnswerIntent",
+			"phrases": [
+				"The answer is {answer}",
+				"My answer is {answer}",
+				"{answer}",
+				"{answer} is my answer",
+				"is it {answer}"
 			],
 			"inputs": [
 				{
@@ -196,11 +201,7 @@
 					"synonyms": [
 						"Multiple choice",
 						"Multiple",
-						"TF",
-						"Choice",
-						"True",
-						"False",
-						"Mult"
+						"Choice"
 					]
 				}
 			]
@@ -410,15 +411,54 @@
 				"intents": [
 					{
 						"name": "AMAZON.CancelIntent",
-						"samples": []
+						"samples": [
+							"Cancel",
+							"End",
+							"Finish"
+						]
 					},
 					{
 						"name": "AMAZON.HelpIntent",
-						"samples": []
+						"samples": [
+							"Help",
+							"Give me some help",
+							"I don't know what to do",
+							"What can i do"
+						]
 					},
 					{
 						"name": "AMAZON.StopIntent",
-						"samples": []
+						"samples": [
+							"Stop",
+							"End",
+							"Finish"
+						]
+					},
+					{
+						"name": "AMAZON.RepeatIntent",
+						"samples": [
+							"Say it again",
+							"Repeat",
+							"Please repeat",
+							"I didn't hear it",
+							"What"
+						]
+					},
+					{
+						"name": "AMAZON.YesIntent",
+						"samples": [
+							"Yes",
+							"Sure",
+							"Why not"
+						]
+					},
+					{
+						"name": "AMAZON.NoIntent",
+						"samples": [
+							"No",
+							"Nope",
+							"Never"
+						]
 					}
 				]
 			}
