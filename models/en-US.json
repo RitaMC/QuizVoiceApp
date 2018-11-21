@@ -103,28 +103,6 @@
 			]
 		},
 		{
-			"name": "QuestionIntent",
-			"phrases": [
-				"Give me {number} questions",
-				"{number} questions",
-				"I want {number} questions",
-				"It can be {number} questions",
-				"{number}",
-				"Give me {number}",
-				"I want {number}",
-				"It can be {number}"
-			],
-			"inputs":[
-				{
-					"name": "number",
-					"type": {
-						"alexa": "AMAZON.NUMBER",
-						"dialogflow": "@sys.number"
-					}
-				}
-			]
-		},
-		{
 			"name": "DontKnowIntent",
 			"phrases": [
 				"Next",
@@ -148,12 +126,23 @@
 				"My answer is {answer}",
 				"{answer}",
 				"{answer} is my answer",
-				"is it {answer}"
+				"is it {answer}",
+				"{number}",
+				"The answer is {number}",
+				"My answer is {number}",
+				"{number} is my answer"
 			],
 			"inputs": [
 				{
 					"name": "answer",
 					"type": "ListofAnswersType"
+				},
+				{
+					"name": "number",
+					"type": {
+						"alexa": "AMAZON.NUMBER",
+						"dialogflow": "@sys.number"
+					}
 				}
 			]
 		}

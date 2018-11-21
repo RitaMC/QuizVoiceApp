@@ -78,7 +78,7 @@ app.setHandler({
         var theme = this.getInput("theme").value;
         this.addSessionAttribute("theme",theme.toLowerCase());
 
-        this.ask("Which level of difficulty do you want easy, medium or hard?","Easy, medium or hard?");
+        this.ask("Which level of difficulty do you want, easy, medium or hard?","Easy, medium or hard?");
 
     },
 
@@ -178,7 +178,6 @@ app.setHandler({
         },
 
         'DontKnowIntent': function(){
-            console.log("HERE");
             checkUserAnswer.call(this,true);
         },
 
@@ -235,7 +234,7 @@ function checkUserAnswer(userDoesntKnow){
     if(!userDoesntKnow){
         var user_answer = this.getInput("answer").value.toLowerCase();
         
-        if(user_answer === qts[qts_position].correct_answer.toLowerCase()){
+        if(user_answer == qts[qts_position].correct_answer.toLowerCase()){
             qts_score += 5;
             
             if(this.user().data.points >= 50 && this.user().data.points < 100){
