@@ -1,17 +1,5 @@
 {
 	"name": "ScoreIntent",
 	"auto": true,
-	"webhookUsed": true,
-	"responses": [
-		{
-			"parameters": [
-				{
-					"isList": false,
-					"name": "rank",
-					"value": "$rank",
-					"dataType": "@myScoreInputType"
-				}
-			]
-		}
-	]
+	"webhookUsed": true
 }

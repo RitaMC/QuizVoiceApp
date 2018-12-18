@@ -2,7 +2,7 @@
 	{
 		"data": [
 			{
-				"text": "You choose",
+				"text": "Stop",
 				"userDefined": false
 			}
 		],
@@ -12,7 +12,17 @@
 	{
 		"data": [
 			{
-				"text": "Both",
+				"text": "End",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Finish",
 				"userDefined": false
 			}
 		],

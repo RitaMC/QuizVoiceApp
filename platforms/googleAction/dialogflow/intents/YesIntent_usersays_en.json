@@ -2,7 +2,7 @@
 	{
 		"data": [
 			{
-				"text": "You choose",
+				"text": "Yes",
 				"userDefined": false
 			}
 		],
@@ -12,7 +12,17 @@
 	{
 		"data": [
 			{
-				"text": "Both",
+				"text": "Why not",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Sure",
 				"userDefined": false
 			}
 		],

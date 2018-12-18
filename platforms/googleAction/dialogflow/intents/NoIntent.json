@@ -1,0 +1,37 @@
+{
+	"name": "NoIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"userSays": [
+		{
+			"data": [
+				{
+					"text": "No",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		},
+		{
+			"data": [
+				{
+					"text": "Never",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		},
+		{
+			"data": [
+				{
+					"text": "Nope",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		}
+	]
+}

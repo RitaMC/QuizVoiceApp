@@ -2,14 +2,8 @@
 	{
 		"data": [
 			{
-				"text": "Give me my ",
+				"text": "I want to know my score",
 				"userDefined": false
-			},
-			{
-				"text": "rank",
-				"userDefined": true,
-				"alias": "rank",
-				"meta": "@myScoreInputType"
 			}
 		],
 		"isTemplate": false,
@@ -18,14 +12,8 @@
 	{
 		"data": [
 			{
-				"text": "Tell me my ",
+				"text": "I want to know my level",
 				"userDefined": false
-			},
-			{
-				"text": "rank",
-				"userDefined": true,
-				"alias": "rank",
-				"meta": "@myScoreInputType"
 			}
 		],
 		"isTemplate": false,
@@ -34,14 +22,18 @@
 	{
 		"data": [
 			{
-				"text": "I want to know my ",
+				"text": "I want to know my rank",
 				"userDefined": false
-			},
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
 			{
-				"text": "rank",
-				"userDefined": true,
-				"alias": "rank",
-				"meta": "@myScoreInputType"
+				"text": "Am i still an apprentice",
+				"userDefined": false
 			}
 		],
 		"isTemplate": false,
@@ -60,10 +52,88 @@
 	{
 		"data": [
 			{
-				"text": "rank",
-				"userDefined": true,
-				"alias": "rank",
-				"meta": "@myScoreInputType"
+				"text": "Tell me my score",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Tell me my level",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Tell me my rank",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Give me my score",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Give me my level",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Give me my rank",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Rank",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Level",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Score",
+				"userDefined": false
 			}
 		],
 		"isTemplate": false,

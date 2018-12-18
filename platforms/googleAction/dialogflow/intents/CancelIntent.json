@@ -1,0 +1,17 @@
+{
+	"name": "CancelIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"userSays": [
+		{
+			"data": [
+				{
+					"text": "Cancel",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		}
+	]
+}

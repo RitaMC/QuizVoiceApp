@@ -2,7 +2,7 @@
 	{
 		"data": [
 			{
-				"text": "You choose",
+				"text": "No",
 				"userDefined": false
 			}
 		],
@@ -12,7 +12,17 @@
 	{
 		"data": [
 			{
-				"text": "Both",
+				"text": "Never",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Nope",
 				"userDefined": false
 			}
 		],

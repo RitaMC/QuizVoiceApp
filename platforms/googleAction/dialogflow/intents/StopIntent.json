@@ -1,0 +1,37 @@
+{
+	"name": "StopIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"userSays": [
+		{
+			"data": [
+				{
+					"text": "Stop",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		},
+		{
+			"data": [
+				{
+					"text": "End",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		},
+		{
+			"data": [
+				{
+					"text": "Finish",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		}
+	]
+}

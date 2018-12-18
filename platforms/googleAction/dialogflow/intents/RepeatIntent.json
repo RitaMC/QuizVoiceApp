@@ -1,0 +1,57 @@
+{
+	"name": "RepeatIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"userSays": [
+		{
+			"data": [
+				{
+					"text": "Repeat",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		},
+		{
+			"data": [
+				{
+					"text": "I didn't hear it",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		},
+		{
+			"data": [
+				{
+					"text": "What",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		},
+		{
+			"data": [
+				{
+					"text": "Please repeat",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		},
+		{
+			"data": [
+				{
+					"text": "Say it again",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		}
+	]
+}

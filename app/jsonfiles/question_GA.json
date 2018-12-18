@@ -1,0 +1,796 @@
+{
+    "general knowledge_boolean_easy": [
+        {
+            "question": "The Great Wall of China is visible from the moon.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Video streaming website YouTube was purchased in it's entirety by Facebook for US$1.65 billion in stock.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Gumbo is a stew that originated in Louisiana.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "French is an official language in Canada.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Nutella is produced by the German company Ferrero.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Bulls are attracted to the color red.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Ananas is mostly used as the word for Pineapple in other languages.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The color orange is named after the fruit.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "You can legally drink alcohol while driving in Mississippi.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "On average, at least 1 person is killed by a drunk driver in the United States every hour.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Adolf Hitler was born in Australia. ",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "When you cry in space, your tears stick to your face.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The Lego Group was founded in 1932.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "27 Club is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The National Animal of Scotland is the Unicorn.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The Great Wall of China is visible from the moon.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Video streaming website YouTube was purchased in it's entirety by Facebook for US$1.65 billion in stock.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "One of Donald Trump's 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Scotland voted to become an independent country during the referendum from September 2014.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "general knowledge_boolean_medium": [
+        {
+            "question": "Typewriter is the longest word that can be typed using only the first row on a QWERTY keyboard.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The vapor produced by e-cigarettes is actually water.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The sum of all the numbers on a roulette wheel is 666.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Furby was released in 1998.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "There are 86400 seconds in a day.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The bikini is named after the Bikini Atoll, an island where the United States conducted tests on atomic bombs.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Cucumbers are usually more than 90% water.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "You are allowed to sell your soul on eBay.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The average woman is 5 inches / 13 centimeters shorter than the average man.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The term Spam came before the food product Spam.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Kissing someone for one minute burns about 2 calories.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Sitting for more than three hours a day can cut two years off a person's life expectancy.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The French word to travel is Travail",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The French word for glass is glace.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Albert Einstein had trouble with mathematics when he was in school.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Fast food restaurant chains Carl's Jr. and Hardee's are owned by the same company.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Santa Claus is a variety of melon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The scientific name for the Southern Lights is Aurora Australis?",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Haggis is traditionally ate on Burns Night.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "music_boolean_easy": [
+        {
+            "question": "The music group Daft Punk got their name from a negative review they recieved.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The music video to The Buggle's Video Killed the Radio Star was the first music video to broadcast on MTV.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Eurobeat is primarily an Italian genre of music.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "American rapper Dr. Dre actually has a Ph.D. doctorate.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The alternative rock band, They Might Be Giants, released their album 'Flood' in 1990. ",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The song Stronger Than You is a single by Estelle, who played Garnet in Steven Universe.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "A Saxophone is a brass instrument.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Stevie Wonder's real name is Stevland Hardaway Morris.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Scatman John's real name was John Paul Larkin.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Michael Jackson wrote The Simpsons song Do the Bartman.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "music_boolean_medium": [
+        {
+            "question": "Arcade Fire's 'The Suburbs' won the Album of the Year award in the 2011 Grammys.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Rapper Snoop Dogg's real name is 'Cordozar Calvin Broadus, Jr.'.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Soulja Boy's 'Crank That' won a Grammy for Best Rap Song in 2007.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Norwegian producer Kygo released a remix of the song Sexual Healing by Marvin Gaye.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The Division Bell is the final album of the progressive rock band Pink Floyd.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Twenty One Pilots made the song The Motion featuring Sampha.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "EDM label Monstercat signs tracks instead of artists.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "3 members of 2 Live Crew were arrested for playing songs from their album, As Nasty As They Wanna Be, live.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Nick Mason is the only member to appear on every Pink Floyd album.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "musical artist, Future, collaborated with Kendrick Lamar for the song: Mask Off.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "music_boolean_hard": [
+        {
+            "question": "The song Mystery Train was released by artist Little Junior's Blue Flames in 1953.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The band STRFKR was also briefly known as Pyramiddd.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The song Scatman's World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "general knowledge_boolean_hard": [
+        {
+            "question": "This is the correct spelling of Supercalifragilisticexpialidocious.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Number 16 Bus Shelter was a child's name that was approved by the New Zealand government.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "In Scandinavian languages, the letter å means river.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Stagecoach owned South West Trains before losing the rights to FirstGroup and MTR in March of 2017.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Spoon theory is a theory, utilizing Spoons as a metaphor for energy they can use in a day.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "film_boolean_easy": [
+        {
+            "question": "The movie The Nightmare before Christmas was all done with physical objects.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The 2010 film The Social Network is a biographical drama film about MySpace founder Tom Anderson.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The word Inception came from the 2010 blockbuster hit Inception.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "In the original script of The Matrix, the machines used humans as additional computing power instead of batteries.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Shaquille O'Neal appeared in the 1997 film Space Jam.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "In the movie The Revenant, DiCaprio's character hunts down the killer of his son.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Minions was released on the June 10th, 2015.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Foodfight! earned less than $80,000 at box office.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "film_boolean_medium": [
+        {
+            "question": "There aren't any live-action clones in Star Wars: Episode III - Revenge of the Sith.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The colour of the pills in the Matrix were Blue and Yellow.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The Xenomorph from the science fiction film Alien has acidic blood.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Joan Cusack starred in the 2009 disaster movie, 2012.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The movie Tron received an Oscar nomination for Best Visual Effects.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "film_boolean_hard": [
+        {
+            "question": "Cube, Cube 2: Hypercube and Cube Zero were directed by the same person.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The weapon Clint Eastwood uses in Dirty Harry was a .44 Automag.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "science and nature_boolean_easy": [
+        {
+            "question": "Igneous rocks are formed by excessive heat and pressure.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Salt is 100% composed of Sodium.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "An atom contains a nucleus.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "An average human can go two weeks without water.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Psychology is the science of behavior and mind.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ],
+    "science and nature_boolean_medium": [
+        {
+            "question": "The Neanderthals were a direct ancestor of modern humans.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The planet Mars has two moons orbiting it.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "A defibrillator is used to start up a heartbeat once a heart has stopped beating.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Shrimp can swim backwards.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Type 1 diabetes is a result of the liver working improperly.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "Anatomy considers the forms of macroscopic structures such as organs and organ systems.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body's inertia.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "In the periodic table, Potassium's symbol is the letter K.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Sugar contains fat.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ],
+    "science and nature_boolean_hard": [
+        {
+            "question": "You can calculate Induced Voltage using: epsilon =-N * (d times Phi tims B)/(d)",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "Scientists can grow teeth from urine.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "question": "The chemical element Lithium is named after the country of Lithuania.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "question": "The value of one Calorie is different than the value of one calorie.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}

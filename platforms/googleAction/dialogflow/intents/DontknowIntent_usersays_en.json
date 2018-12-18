@@ -2,7 +2,7 @@
 	{
 		"data": [
 			{
-				"text": "I dont know",
+				"text": "Next",
 				"userDefined": false
 			}
 		],
@@ -12,7 +12,27 @@
 	{
 		"data": [
 			{
-				"text": "Like i know it",
+				"text": "Pass",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Another question",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Another",
 				"userDefined": false
 			}
 		],
@@ -32,7 +52,7 @@
 	{
 		"data": [
 			{
-				"text": "Beats me",
+				"text": "I don't know",
 				"userDefined": false
 			}
 		],
@@ -42,7 +62,7 @@
 	{
 		"data": [
 			{
-				"text": "I give up",
+				"text": "who knows",
 				"userDefined": false
 			}
 		],
@@ -52,7 +72,47 @@
 	{
 		"data": [
 			{
-				"text": "Give up",
+				"text": "skip",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "dunno",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "i don't know that one",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "i don't know this question",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "i don't know that",
 				"userDefined": false
 			}
 		],

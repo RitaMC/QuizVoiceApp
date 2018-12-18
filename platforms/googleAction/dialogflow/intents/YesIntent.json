@@ -1,0 +1,37 @@
+{
+	"name": "YesIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"userSays": [
+		{
+			"data": [
+				{
+					"text": "Yes",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		},
+		{
+			"data": [
+				{
+					"text": "Why not",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		},
+		{
+			"data": [
+				{
+					"text": "Sure",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0
+		}
+	]
+}

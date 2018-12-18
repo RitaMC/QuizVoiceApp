@@ -9,7 +9,7 @@
 					"isList": false,
 					"name": "answer",
 					"value": "$answer",
-					"dataType": "@ListofAnswersType"
+					"dataType": "@myAnswerType"
 				}
 			]
 		}

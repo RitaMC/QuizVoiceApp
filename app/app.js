@@ -35,14 +35,20 @@ const app = new App(config);
 // Using the setter
 app.setDynamoDb('quizGame');
 
-//Questions for the quiz
-const questions = require('./jsonfiles/question.json');
+//Questions for the quiz in A.Alexa
+const questionsAA = require('./jsonfiles/question.json');
+
+//Questions for the quiz in G.Assistant
+const questionsGA = require('./jsonfiles/question_GA.json');
 
 //MasterQuiz rankings
 const rankings = require('./jsonfiles/ranks.json');
 
-//MasterQuiz themes
+//MasterQuiz themes for A.Alexa
 const themes = require('./jsonfiles/themes.json');
+
+//MasterQuiz themes for G.Assistant
+const themesGA = require('./jsonfiles/themesGA.json');
 
 //NUM_MAX_QUESTIONS
 const NUM_MAX_QUESTIONS = 5;
@@ -57,8 +63,10 @@ app.setHandler({
     },
 
     'WelcomeIntent': function(){
-        this.user().data.points = 0;
-        this.user().data.rank = "Apprentice";
+        if(this.user().metaData.createdAt == false){
+            this.user().data.points = 0;
+            this.user().data.rank = "Apprentice";
+        }
         this.addSessionAttribute("device",this.getType());
 
         this.ask('Welcome to Master Quiz! Ready to test your knowledge and have a good time? If so ask me for a quiz or your rank and let’s begin.',"Do you want to do a quiz or know your rank?");
@@ -68,7 +76,7 @@ app.setHandler({
         var dev = this.getSessionAttribute("device");
 
         if(dev == "GoogleAction"){
-            this.ask("Let’s begin your journey. I have quizzes about Science and Nature, Sports, Film and General Knowledge. Which one do you want?"," Which theme do you want?");
+            this.ask("Let’s begin your journey. I have quizzes about Science and Nature, Music, Film and General Knowledge. Which one do you want?"," Which theme do you want?");
         }else{
             this.ask("Let’s begin your journey. I have quizzes about Science and Nature, Sports and Geography. Want try one of this or want more themes?","One of this themes or want to see the rest?");
         }
@@ -90,23 +98,48 @@ app.setHandler({
         var level = this.getInput("difficulty").value;
         this.addSessionAttribute("level",level.toLowerCase());
 
-        this.ask("Do you want true or false or multiple choice questions?","True of false or multiple choice questions?");
+        var device = this.getSessionAttribute("device");
+
+        if(device == "GoogleAction"){
+            //In this assistant we only have true or false questions
+            this.addSessionAttribute("type","true or false");
+            this.toIntent("TypeofQuestionIntent");
+        }else{
+            this.ask("Do you want true or false or multiple choice questions?","True of false or multiple choice questions?");
+        }
     },
 
     'TypeofQuestionIntent': function(){
-        var type = this.getInput("typeofquestion").value;
-        this.addSessionAttribute("type",type.toLowerCase());
+        var device = this.getSessionAttribute("device");
+        var speechOutput = '';
 
-        this.followUpState('StartState').ask("So you want a "+this.getSessionAttribute("level")+" "+type+" quiz about "+this.getSessionAttribute("theme")+", are you sure?","Do you want to tackle this quiz?");
+        if(device == "GoogleAction"){
+            speechOutput = "So you want a "+this.getSessionAttribute("level")+" true or false "+"quiz about "+this.getSessionAttribute("theme")+", are you sure?";
+        }else{
+            var type = this.getInput("typeofquestion").value;
+            this.addSessionAttribute("type",type.toLowerCase());
+            speechOutput = "So you want a "+this.getSessionAttribute("level")+" "+type+" quiz about "+this.getSessionAttribute("theme")+", are you sure?";
+        }
+
+        this.followUpState('StartState').ask(speechOutput,"Do you want to tackle this quiz?");
     },
 
     'StartState': {
         'QuestionIntent': function(){
             var quiz_type = '';
-            
+            var device = this.getSessionAttribute("device");
+
             if(this.getSessionAttribute("theme") === "random"){
-                var index = Math.floor((Math.random()*6));
-                quiz_type += themes[index];
+                var index = 0;
+
+                if(device == "GoogleAction"){                 
+                    index = Math.floor((Math.random()*4));
+                    quiz_type += themesGA[index];
+                }else{   
+                    index = Math.floor((Math.random()*6));
+                    quiz_type += themes[index];
+                }
+
             }else{
                 quiz_type += this.getSessionAttribute("theme");
             }
@@ -119,10 +152,22 @@ app.setHandler({
             
             quiz_type += this.getSessionAttribute("level");
             
-            var qts = questions[quiz_type];
+            var qts = '';
+
+            if(device == "GoogleAction"){
+                qts = questionsGA[quiz_type];
+            }else{
+                qts = questionsAA[quiz_type];
+            }
+            
             this.addSessionAttribute("questions",qts);
             
-            var qts_position = 0;
+            var qts_given = 1;
+            this.addSessionAttribute("numQtsGiven",qts_given);
+
+            var qts_position = [];
+            var ind = Math.floor(Math.random()*qts.length);
+            qts_position.push(ind);
             this.addSessionAttribute("index",qts_position);
 
             var qts_score = 0;
@@ -132,17 +177,17 @@ app.setHandler({
 
             if(this.getSessionAttribute("type") === "multiple choice" || this.getSessionAttribute("type") === "choice" 
             || this.getSessionAttribute("type") === "multiple" || this.getSessionAttribute("type") === "mult"){
-                first_question = qts[0].question;
+                first_question = qts[ind].question;
                 first_question += " ";
-                first_question += qts[0].correct_answer;
+                first_question += qts[ind].incorrect_answers[0];
                 first_question += ", ";
-                first_question += qts[0].incorrect_answers[0];
+                first_question += qts[ind].correct_answer;
                 first_question += ", ";
-                first_question += qts[0].incorrect_answers[1];
+                first_question += qts[ind].incorrect_answers[1];
                 first_question += ", ";
-                first_question += qts[0].incorrect_answers[2];
+                first_question += qts[ind].incorrect_answers[2];
             }else{
-                first_question = qts[0].question;
+                first_question = qts[ind].question;
             }
 
             this.addSessionAttribute("current_question",first_question);
@@ -197,7 +242,7 @@ app.setHandler({
         }else if(data.points >= 100 && data.points < 150){
             this.ask("You are already an "+rankings[2]+" at performing quizzes with success.","You are already an "+rankings[2]);
         }else if(data.points >= 150 && data.points < 300){
-            this.ask("Congratulations you are a "+rankings[3]+". Keep going, you are almost a Master","Congratulations you are a "+rankings[3]);
+            this.ask("Congratulations you are a "+rankings[3]+". Keep going, you are almost a Grand Master","Congratulations you are a "+rankings[3]);
         }else if(data.points >= 300){
             this.ask("Make your way for the "+rankings[4] +" but you cannot rest now you still have many quizzes to try and slay.","Make your way for the "+rankings[4]);
         }
@@ -205,11 +250,11 @@ app.setHandler({
     },
 
     'StopIntent': function(){
-        this.ask("Goodbye, hope you had a fun time and don't forget to return so you can continue your journey to Mastery");
+        this.tell("Goodbye, hope you had a fun time and don't forget to return so you can continue your journey to Mastery");
     },
 
     'CancelIntent': function(){
-        this.ask("Looking forward to your next quest for knowledge. Hope to see you soon.");
+        this.tell("Looking forward to your next quest for knowledge. Hope to see you soon.");
     },
 
     'HelpIntent': function(){
@@ -228,51 +273,52 @@ function checkUserAnswer(userDoesntKnow){
     var alexaSays = '';
     var data = this.user().data;
     var qts = this.getSessionAttribute("questions");
+    var qts_given = this.getSessionAttribute("numQtsGiven");
     var qts_position = this.getSessionAttribute("index");
     var qts_score = this.getSessionAttribute("current_score");
 
     if(!userDoesntKnow){
-        var user_answer = this.getInput("answer").value.toLowerCase();
+        var user_answer =  this.getInput("answer").value.toLowerCase();
         
-        if(user_answer == qts[qts_position].correct_answer.toLowerCase()){
+        if(user_answer == qts[qts_position[qts_position.length-1]].correct_answer.toLowerCase()){
             qts_score += 5;
-            
-            if(this.user().data.points >= 50 && this.user().data.points < 100){
-                this.user().data.rank = rankings[1];
-            }else if(this.user().data.points >= 100 && this.user().data.points < 150){
-                this.user().data.rank = rankings[2];
-            }else if(this.user().data.points >= 150 && this.user().data.points < 300){
-                this.user().data.rank = rankings[3];
-            }else if(this.user().data.points >= 300){
-                this.user().data.rank = rankings[4];
-            }
 
             alexaSays = "Congrats you got that one right ";
         }else{
-            alexaSays ="Better luck next time, the correct answer is "+qts[qts_position].correct_answer.toLowerCase();
+            alexaSays = "Better luck next time, the correct answer is "+qts[qts_position[qts_position.length-1]].correct_answer.toLowerCase();
         }
         
     }else{
         alexaSays = "Don't give up you will get the rest right!";
     }
 
-    if(qts_position < qts.length && qts_position+1 < NUM_MAX_QUESTIONS){
-        qts_position++;
+    if(qts_given < qts.length && qts_given < NUM_MAX_QUESTIONS){
+        qts_given++;
     }else{
         var points = data.points;
         points += qts_score;
         this.user().data.points = points;
+
+        if(this.user().data.points >= 50 && this.user().data.points < 100){
+            this.user().data.rank = rankings[1];
+        }else if(this.user().data.points >= 100 && this.user().data.points < 150){
+            this.user().data.rank = rankings[2];
+        }else if(this.user().data.points >= 150 && this.user().data.points < 300){
+            this.user().data.rank = rankings[3];
+        }else if(this.user().data.points >= 300){
+            this.user().data.rank = rankings[4];
+        }
         
         var howManyCorrect = qts_score/5;
 
         if(howManyCorrect == NUM_MAX_QUESTIONS){
-            this.ask("You got "+howManyCorrect+" out of 5 questions correct! Excellent work, some more quizzes and you will be a master in no time. Want to keep doing quizzes or check your rank?"," Want to keep doing quizzes or check your rank?");
+            this.ask("You got "+howManyCorrect+" out of "+qts_given+" questions correct! Excellent work, some more quizzes and you will be a master in no time. Want to keep doing quizzes or check your rank?"," Want to keep doing quizzes or check your rank?");
             return;
         }else if(howManyCorrect >= 3 && howManyCorrect < NUM_MAX_QUESTIONS){
-            this.ask("You got "+howManyCorrect+" out of 5 questions correct! Keep learning and doing quizzes and you will achieve the perfect score. Want to keep doing quizzes or check your rank?"," Want to keep doing quizzes or check your rank?");
+            this.ask("You got "+howManyCorrect+" out of "+qts_given+" questions correct! Keep learning and doing quizzes and you will achieve the perfect score. Want to keep doing quizzes or check your rank?"," Want to keep doing quizzes or check your rank?");
             return;
         }else{
-            this.ask("You got "+howManyCorrect+" out of 5 questions correct! Don't feel bad just keep learning and you will soon have the perfect score. Want to keep doing quizzes or check your rank?"," Want to keep doing quizzes or check your rank?");
+            this.ask("You got "+howManyCorrect+" out of "+qts_given+" questions correct! Don't feel bad just keep learning and you will soon have the perfect score. Want to keep doing quizzes or check your rank?"," Want to keep doing quizzes or check your rank?");
             return;
         }
         
@@ -280,24 +326,33 @@ function checkUserAnswer(userDoesntKnow){
 
     var next_question ='';
 
+    var ind = 0;
+
+    do{
+        ind = Math.floor(Math.random()*qts.length);
+    }while(qts_position.includes(ind))
+
+    qts_position.push(ind);
+
     if(this.getSessionAttribute("type") === "multiple choice" || this.getSessionAttribute("type") === "choice" 
        || this.getSessionAttribute("type") === "multiple" || this.getSessionAttribute("type") === "mult"){
-        next_question = qts[qts_position].question;
+        next_question = qts[ind].question;
         next_question += " ";
-        next_question += qts[qts_position].correct_answer;
+        next_question += qts[ind].incorrect_answers[0];
         next_question += ", ";
-        next_question += qts[qts_position].incorrect_answers[0];
+        next_question += qts[ind].correct_answer;
         next_question += ", ";
-        next_question += qts[qts_position].incorrect_answers[1];
+        next_question += qts[ind].incorrect_answers[1];
         next_question += ", ";
-        next_question += qts[qts_position].incorrect_answers[2];
+        next_question += qts[ind].incorrect_answers[2];
     }else{
-        next_question = qts[qts_position].question;
+        next_question = qts[ind].question;
     }
 
+    this.setSessionAttribute("numQtsGiven",qts_given);
     this.setSessionAttribute("current_score",qts_score);
     this.setSessionAttribute("index",qts_position);
-    this.setSessionAttribute("current_session",next_question);
+    this.setSessionAttribute("current_question",next_question);
 
     this.followUpState('QuizState').ask(alexaSays+". Next question: "+next_question,next_question);
 }
